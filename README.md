@@ -67,9 +67,4 @@ This project involves building "Mini-TCP", an educational, application-layer imp
 *   **Bonus Features:** Enhanced the protocol with Fast Retransmit (triggering retransmission upon receiving three duplicate ACKs) and Fast Recovery.
 *   **Tech Stack:** C++, UDP Sockets, Makefile, Python (for plotting `cwnd` and throughput graphs).
 
----
 
-  
-## 🚀 Getting Started
-
-To explore any of these projects, navigate to their respective directories. Detailed instructions on compiling and running the code (e.g., using `make` or ns-3 build scripts) can be found in the project reports.
