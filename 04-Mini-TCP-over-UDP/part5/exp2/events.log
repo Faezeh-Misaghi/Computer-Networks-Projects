@@ -1,0 +1,2784 @@
+0.000181166 - EVENT: Sent packet seq_num 0
+0.051374 - EVENT: Received ACK expected seq_num 1
+0.0514404 - EVENT: Sent packet seq_num 1
+0.0514474 - EVENT: Sent packet seq_num 2
+0.102494 - EVENT: Received ACK expected seq_num 2
+0.102525 - EVENT: Sent packet seq_num 3
+0.102529 - EVENT: Sent packet seq_num 4
+0.163526 - EVENT: Received ACK expected seq_num 3
+0.163583 - EVENT: Sent packet seq_num 5
+0.16359 - EVENT: Sent packet seq_num 6
+0.204161 - EVENT: Received ACK expected seq_num 4
+0.20419 - EVENT: Sent packet seq_num 7
+0.204285 - EVENT: Sent packet seq_num 8
+0.254517 - EVENT: Received ACK expected seq_num 5
+0.254558 - EVENT: Sent packet seq_num 9
+0.254565 - EVENT: Sent packet seq_num 10
+0.307059 - EVENT: Received ACK expected seq_num 6
+0.307109 - EVENT: Sent packet seq_num 11
+0.307116 - EVENT: Sent packet seq_num 12
+0.35797 - EVENT: Received ACK expected seq_num 7
+0.358024 - EVENT: Sent packet seq_num 13
+0.358029 - EVENT: Sent packet seq_num 14
+0.409317 - EVENT: Received ACK expected seq_num 8
+0.409354 - EVENT: Sent packet seq_num 15
+0.409358 - EVENT: Sent packet seq_num 16
+0.459413 - EVENT: Received ACK expected seq_num 9
+0.459523 - EVENT: Sent packet seq_num 17
+0.459529 - EVENT: Sent packet seq_num 18
+0.511034 - EVENT: Received ACK expected seq_num 10
+0.511067 - EVENT: Sent packet seq_num 19
+0.511071 - EVENT: Sent packet seq_num 20
+0.564893 - EVENT: Received ACK expected seq_num 11
+0.564927 - EVENT: Sent packet seq_num 21
+0.564931 - EVENT: Sent packet seq_num 22
+0.614285 - EVENT: Received ACK expected seq_num 12
+0.614316 - EVENT: Sent packet seq_num 23
+0.614339 - EVENT: Sent packet seq_num 24
+0.664787 - EVENT: Received ACK expected seq_num 13
+0.664814 - EVENT: Sent packet seq_num 25
+0.664817 - EVENT: Sent packet seq_num 26
+0.715739 - EVENT: Received ACK expected seq_num 14
+0.715922 - EVENT: Sent packet seq_num 27
+0.715934 - EVENT: Sent packet seq_num 28
+0.767002 - EVENT: Received ACK expected seq_num 15
+0.767037 - EVENT: Sent packet seq_num 29
+0.767041 - EVENT: Sent packet seq_num 30
+0.81702 - EVENT: Received ACK expected seq_num 16
+0.817051 - EVENT: Sent packet seq_num 31
+0.868046 - EVENT: Received ACK expected seq_num 17
+0.868078 - EVENT: Sent packet seq_num 32
+0.919 - EVENT: Received ACK expected seq_num 18
+0.919036 - EVENT: Sent packet seq_num 33
+0.969227 - EVENT: Received ACK expected seq_num 19
+0.969259 - EVENT: Sent packet seq_num 34
+1.01907 - EVENT: Received ACK expected seq_num 20
+1.0191 - EVENT: Sent packet seq_num 35
+1.06952 - EVENT: Received ACK expected seq_num 21
+1.06955 - EVENT: Sent packet seq_num 36
+1.12025 - EVENT: Received ACK expected seq_num 22
+1.12028 - EVENT: Sent packet seq_num 37
+1.17333 - EVENT: Received ACK expected seq_num 23
+1.17336 - EVENT: Sent packet seq_num 38
+1.22618 - EVENT: Received ACK expected seq_num 24
+1.22624 - EVENT: Sent packet seq_num 39
+1.27569 - EVENT: Received ACK expected seq_num 25
+1.27573 - EVENT: Sent packet seq_num 40
+1.32778 - EVENT: Received ACK expected seq_num 26
+1.32797 - EVENT: Sent packet seq_num 41
+1.38115 - EVENT: Received ACK expected seq_num 27
+1.38118 - EVENT: Sent packet seq_num 42
+1.42968 - EVENT: Received ACK expected seq_num 28
+1.42971 - EVENT: Sent packet seq_num 43
+1.48089 - EVENT: Received ACK expected seq_num 29
+1.481 - EVENT: Sent packet seq_num 44
+1.53116 - EVENT: Received ACK expected seq_num 30
+1.53118 - EVENT: Sent packet seq_num 45
+1.58157 - EVENT: Received ACK expected seq_num 31
+1.58161 - EVENT: Sent packet seq_num 46
+1.58195 - EVENT: Sent packet seq_num 47
+1.63547 - EVENT: Received ACK expected seq_num 32
+1.6355 - EVENT: Sent packet seq_num 48
+1.68797 - EVENT: Received ACK expected seq_num 33
+1.688 - EVENT: Sent packet seq_num 49
+1.73878 - EVENT: Received ACK expected seq_num 34
+1.73882 - EVENT: Sent packet seq_num 50
+1.79221 - EVENT: Received ACK expected seq_num 35
+1.79225 - EVENT: Sent packet seq_num 51
+1.8435 - EVENT: Received ACK expected seq_num 36
+1.84355 - EVENT: Sent packet seq_num 52
+1.89467 - EVENT: Received ACK expected seq_num 37
+1.8947 - EVENT: Sent packet seq_num 53
+1.94474 - EVENT: Received ACK expected seq_num 38
+1.94477 - EVENT: Sent packet seq_num 54
+1.99535 - EVENT: Received ACK expected seq_num 39
+1.99536 - EVENT: Sent packet seq_num 55
+2.04627 - EVENT: Received ACK expected seq_num 40
+2.04629 - EVENT: Sent packet seq_num 56
+2.09779 - EVENT: Received ACK expected seq_num 41
+2.09782 - EVENT: Sent packet seq_num 57
+2.14834 - EVENT: Received ACK expected seq_num 42
+2.14838 - EVENT: Sent packet seq_num 58
+2.19816 - EVENT: Received ACK expected seq_num 43
+2.1982 - EVENT: Sent packet seq_num 59
+2.25515 - EVENT: Received ACK expected seq_num 44
+2.25521 - EVENT: Sent packet seq_num 60
+2.3063 - EVENT: Received ACK expected seq_num 45
+2.30634 - EVENT: Sent packet seq_num 61
+2.36171 - EVENT: Received ACK expected seq_num 46
+2.36196 - EVENT: Sent packet seq_num 62
+2.41223 - EVENT: Received ACK expected seq_num 47
+2.41226 - EVENT: Sent packet seq_num 63
+2.46882 - EVENT: Received ACK expected seq_num 48
+2.46886 - EVENT: Sent packet seq_num 64
+3.46899 - EVENT: TIMEOUT occurred at base 48
+3.47025 - EVENT: Retransmission seq_num 48
+3.52991 - EVENT: Received ACK expected seq_num 49
+3.53008 - EVENT: Retransmission seq_num 49
+3.53009 - EVENT: Retransmission seq_num 50
+3.59736 - EVENT: Received ACK expected seq_num 50
+3.59743 - EVENT: Retransmission seq_num 51
+3.59744 - EVENT: Retransmission seq_num 52
+3.65015 - EVENT: Received ACK expected seq_num 51
+3.65021 - EVENT: Retransmission seq_num 53
+3.65022 - EVENT: Retransmission seq_num 54
+3.7021 - EVENT: Received ACK expected seq_num 52
+3.70213 - EVENT: Retransmission seq_num 55
+3.70214 - EVENT: Retransmission seq_num 56
+3.7554 - EVENT: Received ACK expected seq_num 53
+3.75546 - EVENT: Retransmission seq_num 57
+3.75547 - EVENT: Retransmission seq_num 58
+3.80518 - EVENT: Received ACK expected seq_num 54
+3.80549 - EVENT: Retransmission seq_num 59
+3.80551 - EVENT: Retransmission seq_num 60
+3.86102 - EVENT: Received ACK expected seq_num 55
+3.86107 - EVENT: Retransmission seq_num 61
+3.86108 - EVENT: Retransmission seq_num 62
+3.91452 - EVENT: Received ACK expected seq_num 56
+3.91458 - EVENT: Retransmission seq_num 63
+3.97111 - EVENT: Received ACK expected seq_num 57
+3.97118 - EVENT: Retransmission seq_num 64
+4.02583 - EVENT: Received ACK expected seq_num 58
+4.02587 - EVENT: Sent packet seq_num 65
+4.07653 - EVENT: Received ACK expected seq_num 59
+4.07659 - EVENT: Sent packet seq_num 66
+4.13164 - EVENT: Received ACK expected seq_num 60
+4.13169 - EVENT: Sent packet seq_num 67
+5.13193 - EVENT: TIMEOUT occurred at base 60
+5.13413 - EVENT: Retransmission seq_num 60
+5.18713 - EVENT: Received ACK expected seq_num 61
+5.18719 - EVENT: Retransmission seq_num 61
+5.1872 - EVENT: Retransmission seq_num 62
+5.24079 - EVENT: Received ACK expected seq_num 62
+5.24094 - EVENT: Retransmission seq_num 63
+5.24094 - EVENT: Retransmission seq_num 64
+5.29201 - EVENT: Received ACK expected seq_num 63
+5.29204 - EVENT: Retransmission seq_num 65
+5.29205 - EVENT: Retransmission seq_num 66
+5.34422 - EVENT: Received ACK expected seq_num 64
+5.34426 - EVENT: Retransmission seq_num 67
+5.39409 - EVENT: Received ACK expected seq_num 65
+5.39413 - EVENT: Sent packet seq_num 68
+5.44543 - EVENT: Received ACK expected seq_num 66
+5.44547 - EVENT: Sent packet seq_num 69
+6.4464 - EVENT: TIMEOUT occurred at base 66
+6.44901 - EVENT: Retransmission seq_num 66
+6.50135 - EVENT: Received ACK expected seq_num 67
+6.5014 - EVENT: Retransmission seq_num 67
+6.50141 - EVENT: Retransmission seq_num 68
+6.60466 - EVENT: Received ACK expected seq_num 68
+6.60472 - EVENT: Retransmission seq_num 69
+6.65606 - EVENT: Received ACK expected seq_num 69
+6.65608 - EVENT: Sent packet seq_num 70
+6.65609 - EVENT: Sent packet seq_num 71
+6.70753 - EVENT: Received ACK expected seq_num 70
+6.70757 - EVENT: Sent packet seq_num 72
+6.77545 - EVENT: Received ACK expected seq_num 71
+6.77873 - EVENT: Sent packet seq_num 73
+6.86096 - EVENT: Received ACK expected seq_num 72
+6.86101 - EVENT: Sent packet seq_num 74
+6.86102 - EVENT: Sent packet seq_num 75
+6.91342 - EVENT: Received ACK expected seq_num 73
+6.91602 - EVENT: Sent packet seq_num 76
+6.97542 - EVENT: Received ACK expected seq_num 74
+6.97549 - EVENT: Sent packet seq_num 77
+7.97603 - EVENT: TIMEOUT occurred at base 74
+7.97921 - EVENT: Retransmission seq_num 74
+8.03136 - EVENT: Received ACK expected seq_num 75
+8.03146 - EVENT: Retransmission seq_num 75
+8.03147 - EVENT: Retransmission seq_num 76
+8.08363 - EVENT: Received ACK expected seq_num 76
+8.08366 - EVENT: Retransmission seq_num 77
+8.136 - EVENT: Received ACK expected seq_num 77
+8.13603 - EVENT: Sent packet seq_num 78
+8.13603 - EVENT: Sent packet seq_num 79
+8.1875 - EVENT: Received ACK expected seq_num 78
+8.18753 - EVENT: Sent packet seq_num 80
+8.2425 - EVENT: Received ACK expected seq_num 79
+8.24254 - EVENT: Sent packet seq_num 81
+8.29416 - EVENT: Received ACK expected seq_num 80
+8.2942 - EVENT: Sent packet seq_num 82
+8.2942 - EVENT: Sent packet seq_num 83
+8.34613 - EVENT: Received ACK expected seq_num 81
+8.34616 - EVENT: Sent packet seq_num 84
+9.34755 - EVENT: TIMEOUT occurred at base 81
+9.3496 - EVENT: Retransmission seq_num 81
+9.4017 - EVENT: Received ACK expected seq_num 82
+9.40177 - EVENT: Retransmission seq_num 82
+9.40178 - EVENT: Retransmission seq_num 83
+9.45475 - EVENT: Received ACK expected seq_num 83
+9.45481 - EVENT: Retransmission seq_num 84
+9.50615 - EVENT: Received ACK expected seq_num 84
+9.50618 - EVENT: Sent packet seq_num 85
+9.50618 - EVENT: Sent packet seq_num 86
+9.55559 - EVENT: Received ACK expected seq_num 85
+9.55604 - EVENT: Sent packet seq_num 87
+9.60732 - EVENT: Received ACK expected seq_num 86
+9.60736 - EVENT: Sent packet seq_num 88
+9.66213 - EVENT: Received ACK expected seq_num 87
+9.66217 - EVENT: Sent packet seq_num 89
+9.66217 - EVENT: Sent packet seq_num 90
+9.71205 - EVENT: Received ACK expected seq_num 88
+9.71209 - EVENT: Sent packet seq_num 91
+9.76431 - EVENT: Received ACK expected seq_num 89
+9.76434 - EVENT: Sent packet seq_num 92
+9.81639 - EVENT: Received ACK expected seq_num 90
+9.81642 - EVENT: Sent packet seq_num 93
+9.86646 - EVENT: Received ACK expected seq_num 91
+9.86651 - EVENT: Sent packet seq_num 94
+9.86652 - EVENT: Sent packet seq_num 95
+9.91923 - EVENT: Received ACK expected seq_num 92
+9.91929 - EVENT: Sent packet seq_num 96
+9.96944 - EVENT: Received ACK expected seq_num 93
+9.96949 - EVENT: Sent packet seq_num 97
+10.0243 - EVENT: Received ACK expected seq_num 94
+10.0244 - EVENT: Sent packet seq_num 98
+10.0758 - EVENT: Received ACK expected seq_num 95
+10.0758 - EVENT: Sent packet seq_num 99
+10.1269 - EVENT: Received ACK expected seq_num 96
+10.127 - EVENT: Sent packet seq_num 100
+10.127 - EVENT: Sent packet seq_num 101
+10.1819 - EVENT: Received ACK expected seq_num 97
+10.1819 - EVENT: Sent packet seq_num 102
+10.2348 - EVENT: Received ACK expected seq_num 98
+10.2348 - EVENT: Sent packet seq_num 103
+10.2841 - EVENT: Received ACK expected seq_num 99
+10.2842 - EVENT: Sent packet seq_num 104
+11.2851 - EVENT: TIMEOUT occurred at base 99
+11.2871 - EVENT: Retransmission seq_num 99
+11.3398 - EVENT: Received ACK expected seq_num 100
+11.3399 - EVENT: Retransmission seq_num 100
+11.3399 - EVENT: Retransmission seq_num 101
+11.3914 - EVENT: Received ACK expected seq_num 101
+11.3914 - EVENT: Retransmission seq_num 102
+11.3914 - EVENT: Retransmission seq_num 103
+11.4429 - EVENT: Received ACK expected seq_num 102
+11.443 - EVENT: Retransmission seq_num 104
+11.4934 - EVENT: Received ACK expected seq_num 103
+11.4934 - EVENT: Sent packet seq_num 105
+11.5448 - EVENT: Received ACK expected seq_num 104
+11.5448 - EVENT: Sent packet seq_num 106
+11.5448 - EVENT: Sent packet seq_num 107
+11.5947 - EVENT: Received ACK expected seq_num 105
+11.5947 - EVENT: Sent packet seq_num 108
+11.65 - EVENT: Received ACK expected seq_num 106
+11.6502 - EVENT: Sent packet seq_num 109
+11.7013 - EVENT: Received ACK expected seq_num 107
+11.7014 - EVENT: Sent packet seq_num 110
+12.7014 - EVENT: TIMEOUT occurred at base 107
+12.7028 - EVENT: Retransmission seq_num 107
+12.7534 - EVENT: Received ACK expected seq_num 108
+12.7537 - EVENT: Retransmission seq_num 108
+12.7537 - EVENT: Retransmission seq_num 109
+12.805 - EVENT: Received ACK expected seq_num 109
+12.805 - EVENT: Retransmission seq_num 110
+12.8566 - EVENT: Received ACK expected seq_num 110
+12.8566 - EVENT: Sent packet seq_num 111
+12.8566 - EVENT: Sent packet seq_num 112
+12.9068 - EVENT: Received ACK expected seq_num 111
+12.9068 - EVENT: Sent packet seq_num 113
+12.9566 - EVENT: Received ACK expected seq_num 112
+12.9567 - EVENT: Sent packet seq_num 114
+13.0077 - EVENT: Received ACK expected seq_num 113
+13.0078 - EVENT: Sent packet seq_num 115
+13.0078 - EVENT: Sent packet seq_num 116
+13.059 - EVENT: Received ACK expected seq_num 114
+13.0591 - EVENT: Sent packet seq_num 117
+13.1096 - EVENT: Received ACK expected seq_num 115
+13.1097 - EVENT: Sent packet seq_num 118
+13.1637 - EVENT: Received ACK expected seq_num 116
+13.1638 - EVENT: Sent packet seq_num 119
+13.2206 - EVENT: Received ACK expected seq_num 117
+13.2209 - EVENT: Sent packet seq_num 120
+13.2209 - EVENT: Sent packet seq_num 121
+13.2742 - EVENT: Received ACK expected seq_num 118
+13.2743 - EVENT: Sent packet seq_num 122
+13.3278 - EVENT: Received ACK expected seq_num 119
+13.3278 - EVENT: Sent packet seq_num 123
+13.3854 - EVENT: Received ACK expected seq_num 120
+13.3855 - EVENT: Sent packet seq_num 124
+13.4392 - EVENT: Received ACK expected seq_num 121
+13.4392 - EVENT: Sent packet seq_num 125
+13.4903 - EVENT: Received ACK expected seq_num 122
+13.4903 - EVENT: Sent packet seq_num 126
+13.4903 - EVENT: Sent packet seq_num 127
+13.5432 - EVENT: Received ACK expected seq_num 123
+13.5432 - EVENT: Sent packet seq_num 128
+13.5942 - EVENT: Received ACK expected seq_num 124
+13.5942 - EVENT: Sent packet seq_num 129
+13.6509 - EVENT: Received ACK expected seq_num 125
+13.651 - EVENT: Sent packet seq_num 130
+13.7012 - EVENT: Received ACK expected seq_num 126
+13.7013 - EVENT: Sent packet seq_num 131
+13.7531 - EVENT: Received ACK expected seq_num 127
+13.7531 - EVENT: Sent packet seq_num 132
+13.8037 - EVENT: Received ACK expected seq_num 128
+13.8038 - EVENT: Sent packet seq_num 133
+13.8038 - EVENT: Sent packet seq_num 134
+13.8543 - EVENT: Received ACK expected seq_num 129
+13.8543 - EVENT: Sent packet seq_num 135
+13.9051 - EVENT: Received ACK expected seq_num 130
+13.9051 - EVENT: Sent packet seq_num 136
+14.9066 - EVENT: TIMEOUT occurred at base 130
+14.908 - EVENT: Retransmission seq_num 130
+14.9591 - EVENT: Received ACK expected seq_num 131
+14.9591 - EVENT: Retransmission seq_num 131
+14.9591 - EVENT: Retransmission seq_num 132
+15.0111 - EVENT: Received ACK expected seq_num 132
+15.0111 - EVENT: Retransmission seq_num 133
+15.0111 - EVENT: Retransmission seq_num 134
+15.0643 - EVENT: Received ACK expected seq_num 133
+15.0644 - EVENT: Retransmission seq_num 135
+15.1181 - EVENT: Received ACK expected seq_num 134
+15.1181 - EVENT: Retransmission seq_num 136
+15.173 - EVENT: Received ACK expected seq_num 135
+15.1731 - EVENT: Sent packet seq_num 137
+15.1731 - EVENT: Sent packet seq_num 138
+15.2254 - EVENT: Received ACK expected seq_num 136
+15.2255 - EVENT: Sent packet seq_num 139
+16.2259 - EVENT: TIMEOUT occurred at base 136
+16.2271 - EVENT: Retransmission seq_num 136
+16.2798 - EVENT: Received ACK expected seq_num 137
+16.2799 - EVENT: Retransmission seq_num 137
+16.2799 - EVENT: Retransmission seq_num 138
+16.3334 - EVENT: Received ACK expected seq_num 138
+16.3334 - EVENT: Retransmission seq_num 139
+16.3905 - EVENT: Received ACK expected seq_num 139
+16.3906 - EVENT: Sent packet seq_num 140
+16.3906 - EVENT: Sent packet seq_num 141
+16.4416 - EVENT: Received ACK expected seq_num 140
+16.4417 - EVENT: Sent packet seq_num 142
+16.4944 - EVENT: Received ACK expected seq_num 141
+16.4944 - EVENT: Sent packet seq_num 143
+16.545 - EVENT: Received ACK expected seq_num 142
+16.5451 - EVENT: Sent packet seq_num 144
+16.5451 - EVENT: Sent packet seq_num 145
+16.5955 - EVENT: Received ACK expected seq_num 143
+16.5955 - EVENT: Sent packet seq_num 146
+16.6473 - EVENT: Received ACK expected seq_num 144
+16.6473 - EVENT: Sent packet seq_num 147
+16.6983 - EVENT: Received ACK expected seq_num 145
+16.6983 - EVENT: Sent packet seq_num 148
+16.7541 - EVENT: Received ACK expected seq_num 146
+16.7541 - EVENT: Sent packet seq_num 149
+16.7541 - EVENT: Sent packet seq_num 150
+16.8098 - EVENT: Received ACK expected seq_num 147
+16.8103 - EVENT: Sent packet seq_num 151
+16.861 - EVENT: Received ACK expected seq_num 148
+16.861 - EVENT: Sent packet seq_num 152
+16.9128 - EVENT: Received ACK expected seq_num 149
+16.9128 - EVENT: Sent packet seq_num 153
+16.9634 - EVENT: Received ACK expected seq_num 150
+16.9635 - EVENT: Sent packet seq_num 154
+17.0147 - EVENT: Received ACK expected seq_num 151
+17.0148 - EVENT: Sent packet seq_num 155
+17.0148 - EVENT: Sent packet seq_num 156
+17.0663 - EVENT: Received ACK expected seq_num 152
+17.0663 - EVENT: Sent packet seq_num 157
+18.0677 - EVENT: TIMEOUT occurred at base 152
+18.071 - EVENT: Retransmission seq_num 152
+18.1235 - EVENT: Received ACK expected seq_num 153
+18.1235 - EVENT: Retransmission seq_num 153
+18.1235 - EVENT: Retransmission seq_num 154
+18.1763 - EVENT: Received ACK expected seq_num 154
+18.1764 - EVENT: Retransmission seq_num 155
+18.1764 - EVENT: Retransmission seq_num 156
+18.2287 - EVENT: Received ACK expected seq_num 155
+18.2287 - EVENT: Retransmission seq_num 157
+18.2808 - EVENT: Received ACK expected seq_num 156
+18.2808 - EVENT: Sent packet seq_num 158
+18.3334 - EVENT: Received ACK expected seq_num 157
+18.3365 - EVENT: Sent packet seq_num 159
+18.3365 - EVENT: Sent packet seq_num 160
+18.3871 - EVENT: Received ACK expected seq_num 158
+18.3872 - EVENT: Sent packet seq_num 161
+18.4376 - EVENT: Received ACK expected seq_num 159
+18.4377 - EVENT: Sent packet seq_num 162
+18.4886 - EVENT: Received ACK expected seq_num 160
+18.4887 - EVENT: Sent packet seq_num 163
+18.5413 - EVENT: Received ACK expected seq_num 161
+18.5413 - EVENT: Sent packet seq_num 164
+18.5413 - EVENT: Sent packet seq_num 165
+18.5916 - EVENT: Received ACK expected seq_num 162
+18.5917 - EVENT: Sent packet seq_num 166
+18.6427 - EVENT: Received ACK expected seq_num 163
+18.6428 - EVENT: Sent packet seq_num 167
+18.6957 - EVENT: Received ACK expected seq_num 164
+18.6957 - EVENT: Sent packet seq_num 168
+18.7681 - EVENT: Received ACK expected seq_num 165
+18.7683 - EVENT: Sent packet seq_num 169
+18.8205 - EVENT: Received ACK expected seq_num 166
+18.8206 - EVENT: Sent packet seq_num 170
+18.8206 - EVENT: Sent packet seq_num 171
+18.8774 - EVENT: Received ACK expected seq_num 167
+18.8775 - EVENT: Sent packet seq_num 172
+18.9318 - EVENT: Received ACK expected seq_num 168
+18.9319 - EVENT: Sent packet seq_num 173
+18.9857 - EVENT: Received ACK expected seq_num 169
+18.9857 - EVENT: Sent packet seq_num 174
+19.0428 - EVENT: Received ACK expected seq_num 170
+19.0428 - EVENT: Sent packet seq_num 175
+20.0455 - EVENT: TIMEOUT occurred at base 170
+20.0478 - EVENT: Retransmission seq_num 170
+20.1005 - EVENT: Received ACK expected seq_num 171
+20.1008 - EVENT: Retransmission seq_num 171
+20.1009 - EVENT: Retransmission seq_num 172
+20.1543 - EVENT: Received ACK expected seq_num 172
+20.1543 - EVENT: Retransmission seq_num 173
+20.1543 - EVENT: Retransmission seq_num 174
+20.2045 - EVENT: Received ACK expected seq_num 173
+20.2046 - EVENT: Retransmission seq_num 175
+20.2552 - EVENT: Received ACK expected seq_num 174
+20.2552 - EVENT: Sent packet seq_num 176
+20.3054 - EVENT: Received ACK expected seq_num 175
+20.3055 - EVENT: Sent packet seq_num 177
+20.3055 - EVENT: Sent packet seq_num 178
+20.3575 - EVENT: Received ACK expected seq_num 176
+20.3575 - EVENT: Sent packet seq_num 179
+20.4096 - EVENT: Received ACK expected seq_num 177
+20.4097 - EVENT: Sent packet seq_num 180
+20.4603 - EVENT: Received ACK expected seq_num 178
+20.4604 - EVENT: Sent packet seq_num 181
+20.5104 - EVENT: Received ACK expected seq_num 179
+20.5105 - EVENT: Sent packet seq_num 182
+20.5105 - EVENT: Sent packet seq_num 183
+20.566 - EVENT: Received ACK expected seq_num 180
+20.5661 - EVENT: Sent packet seq_num 184
+20.618 - EVENT: Received ACK expected seq_num 181
+20.618 - EVENT: Sent packet seq_num 185
+20.6692 - EVENT: Received ACK expected seq_num 182
+20.6692 - EVENT: Sent packet seq_num 186
+20.7277 - EVENT: Received ACK expected seq_num 183
+20.7278 - EVENT: Sent packet seq_num 187
+20.7842 - EVENT: Received ACK expected seq_num 184
+20.7842 - EVENT: Sent packet seq_num 188
+20.7842 - EVENT: Sent packet seq_num 189
+20.8391 - EVENT: Received ACK expected seq_num 185
+20.8394 - EVENT: Sent packet seq_num 190
+20.8942 - EVENT: Received ACK expected seq_num 186
+20.8943 - EVENT: Sent packet seq_num 191
+20.9491 - EVENT: Received ACK expected seq_num 187
+20.9492 - EVENT: Sent packet seq_num 192
+21.0034 - EVENT: Received ACK expected seq_num 188
+21.0034 - EVENT: Sent packet seq_num 193
+21.0559 - EVENT: Received ACK expected seq_num 189
+21.056 - EVENT: Sent packet seq_num 194
+21.1079 - EVENT: Received ACK expected seq_num 190
+21.1079 - EVENT: Sent packet seq_num 195
+21.1079 - EVENT: Sent packet seq_num 196
+22.1096 - EVENT: TIMEOUT occurred at base 190
+22.1128 - EVENT: Retransmission seq_num 190
+22.1644 - EVENT: Received ACK expected seq_num 191
+22.1645 - EVENT: Retransmission seq_num 191
+22.1645 - EVENT: Retransmission seq_num 192
+22.2161 - EVENT: Received ACK expected seq_num 192
+22.2161 - EVENT: Retransmission seq_num 193
+22.2161 - EVENT: Retransmission seq_num 194
+22.2664 - EVENT: Received ACK expected seq_num 193
+22.2664 - EVENT: Retransmission seq_num 195
+22.3184 - EVENT: Received ACK expected seq_num 194
+22.3185 - EVENT: Retransmission seq_num 196
+22.3696 - EVENT: Received ACK expected seq_num 195
+22.3696 - EVENT: Sent packet seq_num 197
+22.3696 - EVENT: Sent packet seq_num 198
+22.4194 - EVENT: Received ACK expected seq_num 196
+22.4194 - EVENT: Sent packet seq_num 199
+22.4703 - EVENT: Received ACK expected seq_num 197
+22.4703 - EVENT: Sent packet seq_num 200
+22.5218 - EVENT: Received ACK expected seq_num 198
+22.5219 - EVENT: Sent packet seq_num 201
+22.5728 - EVENT: Received ACK expected seq_num 199
+22.573 - EVENT: Sent packet seq_num 202
+22.573 - EVENT: Sent packet seq_num 203
+22.6236 - EVENT: Received ACK expected seq_num 200
+22.6237 - EVENT: Sent packet seq_num 204
+22.6744 - EVENT: Received ACK expected seq_num 201
+22.6744 - EVENT: Sent packet seq_num 205
+22.7272 - EVENT: Received ACK expected seq_num 202
+22.7272 - EVENT: Sent packet seq_num 206
+22.776 - EVENT: Received ACK expected seq_num 203
+22.7764 - EVENT: Sent packet seq_num 207
+22.8285 - EVENT: Received ACK expected seq_num 204
+22.8286 - EVENT: Sent packet seq_num 208
+22.8286 - EVENT: Sent packet seq_num 209
+22.88 - EVENT: Received ACK expected seq_num 205
+22.88 - EVENT: Sent packet seq_num 210
+22.9353 - EVENT: Received ACK expected seq_num 206
+22.9354 - EVENT: Sent packet seq_num 211
+22.987 - EVENT: Received ACK expected seq_num 207
+22.9871 - EVENT: Sent packet seq_num 212
+23.0381 - EVENT: Received ACK expected seq_num 208
+23.0382 - EVENT: Sent packet seq_num 213
+23.0896 - EVENT: Received ACK expected seq_num 209
+23.0897 - EVENT: Sent packet seq_num 214
+23.1483 - EVENT: Received ACK expected seq_num 210
+23.1484 - EVENT: Sent packet seq_num 215
+23.1484 - EVENT: Sent packet seq_num 216
+23.2009 - EVENT: Received ACK expected seq_num 211
+23.201 - EVENT: Sent packet seq_num 217
+23.2571 - EVENT: Received ACK expected seq_num 212
+23.2576 - EVENT: Sent packet seq_num 218
+23.3093 - EVENT: Received ACK expected seq_num 213
+23.3094 - EVENT: Sent packet seq_num 219
+23.3623 - EVENT: Received ACK expected seq_num 214
+23.3624 - EVENT: Sent packet seq_num 220
+23.4411 - EVENT: Received ACK expected seq_num 215
+23.4412 - EVENT: Sent packet seq_num 221
+23.4964 - EVENT: Received ACK expected seq_num 216
+23.4964 - EVENT: Sent packet seq_num 222
+23.5456 - EVENT: Received ACK expected seq_num 217
+23.5456 - EVENT: Sent packet seq_num 223
+23.5456 - EVENT: Sent packet seq_num 224
+23.5963 - EVENT: Received ACK expected seq_num 218
+23.5963 - EVENT: Sent packet seq_num 225
+23.6518 - EVENT: Received ACK expected seq_num 219
+23.6522 - EVENT: Sent packet seq_num 226
+23.7044 - EVENT: Received ACK expected seq_num 220
+23.7044 - EVENT: Sent packet seq_num 227
+23.7553 - EVENT: Received ACK expected seq_num 221
+23.7553 - EVENT: Sent packet seq_num 228
+23.8093 - EVENT: Received ACK expected seq_num 222
+23.8093 - EVENT: Sent packet seq_num 229
+23.8614 - EVENT: Received ACK expected seq_num 223
+23.8615 - EVENT: Sent packet seq_num 230
+23.9128 - EVENT: Received ACK expected seq_num 224
+23.9129 - EVENT: Sent packet seq_num 231
+23.9751 - EVENT: Received ACK expected seq_num 225
+23.9752 - EVENT: Sent packet seq_num 232
+23.9752 - EVENT: Sent packet seq_num 233
+24.0269 - EVENT: Received ACK expected seq_num 226
+24.027 - EVENT: Sent packet seq_num 234
+24.0783 - EVENT: Received ACK expected seq_num 227
+24.0784 - EVENT: Sent packet seq_num 235
+24.1295 - EVENT: Received ACK expected seq_num 228
+24.1304 - EVENT: Sent packet seq_num 236
+24.1819 - EVENT: Received ACK expected seq_num 229
+24.1819 - EVENT: Sent packet seq_num 237
+24.2369 - EVENT: Received ACK expected seq_num 230
+24.2371 - EVENT: Sent packet seq_num 238
+24.2857 - EVENT: Received ACK expected seq_num 231
+24.2858 - EVENT: Sent packet seq_num 239
+24.3376 - EVENT: Received ACK expected seq_num 232
+24.3378 - EVENT: Sent packet seq_num 240
+24.3897 - EVENT: Received ACK expected seq_num 233
+24.3898 - EVENT: Sent packet seq_num 241
+24.4452 - EVENT: Received ACK expected seq_num 234
+24.4453 - EVENT: Sent packet seq_num 242
+24.4453 - EVENT: Sent packet seq_num 243
+24.5027 - EVENT: Received ACK expected seq_num 235
+24.5028 - EVENT: Sent packet seq_num 244
+24.5532 - EVENT: Received ACK expected seq_num 236
+24.5532 - EVENT: Sent packet seq_num 245
+24.6049 - EVENT: Received ACK expected seq_num 237
+24.6049 - EVENT: Sent packet seq_num 246
+24.6549 - EVENT: Received ACK expected seq_num 238
+24.655 - EVENT: Sent packet seq_num 247
+24.71 - EVENT: Received ACK expected seq_num 239
+24.71 - EVENT: Sent packet seq_num 248
+24.7616 - EVENT: Received ACK expected seq_num 240
+24.7616 - EVENT: Sent packet seq_num 249
+24.8132 - EVENT: Received ACK expected seq_num 241
+24.8132 - EVENT: Sent packet seq_num 250
+24.8635 - EVENT: Received ACK expected seq_num 242
+24.8635 - EVENT: Sent packet seq_num 251
+24.9163 - EVENT: Received ACK expected seq_num 243
+24.9164 - EVENT: Sent packet seq_num 252
+25.9174 - EVENT: TIMEOUT occurred at base 243
+25.919 - EVENT: Retransmission seq_num 243
+25.9723 - EVENT: Received ACK expected seq_num 244
+25.9725 - EVENT: Retransmission seq_num 244
+25.9725 - EVENT: Retransmission seq_num 245
+26.0256 - EVENT: Received ACK expected seq_num 245
+26.0257 - EVENT: Retransmission seq_num 246
+26.0257 - EVENT: Retransmission seq_num 247
+27.0272 - EVENT: TIMEOUT occurred at base 245
+27.0292 - EVENT: Retransmission seq_num 245
+27.0837 - EVENT: Received ACK expected seq_num 246
+27.0838 - EVENT: Retransmission seq_num 246
+27.0838 - EVENT: Retransmission seq_num 247
+27.1368 - EVENT: Received ACK expected seq_num 247
+27.1369 - EVENT: Retransmission seq_num 248
+28.1431 - EVENT: TIMEOUT occurred at base 247
+28.1467 - EVENT: Retransmission seq_num 247
+28.2106 - EVENT: Received ACK expected seq_num 248
+28.2116 - EVENT: Retransmission seq_num 248
+28.2118 - EVENT: Retransmission seq_num 249
+28.2644 - EVENT: Received ACK expected seq_num 249
+28.2644 - EVENT: Retransmission seq_num 250
+28.3728 - EVENT: Received ACK expected seq_num 250
+28.3728 - EVENT: Retransmission seq_num 251
+28.3729 - EVENT: Retransmission seq_num 252
+28.4254 - EVENT: Received ACK expected seq_num 251
+28.4254 - EVENT: Sent packet seq_num 253
+28.4774 - EVENT: Received ACK expected seq_num 252
+28.4774 - EVENT: Sent packet seq_num 254
+28.5289 - EVENT: Received ACK expected seq_num 253
+28.5289 - EVENT: Sent packet seq_num 255
+28.529 - EVENT: Sent packet seq_num 256
+28.5808 - EVENT: Received ACK expected seq_num 254
+28.5808 - EVENT: Sent packet seq_num 257
+28.6326 - EVENT: Received ACK expected seq_num 255
+28.6327 - EVENT: Sent packet seq_num 258
+28.6893 - EVENT: Received ACK expected seq_num 256
+28.6894 - EVENT: Sent packet seq_num 259
+28.7441 - EVENT: Received ACK expected seq_num 257
+28.7442 - EVENT: Sent packet seq_num 260
+28.7442 - EVENT: Sent packet seq_num 261
+28.8006 - EVENT: Received ACK expected seq_num 258
+28.8006 - EVENT: Sent packet seq_num 262
+28.8514 - EVENT: Received ACK expected seq_num 259
+28.8515 - EVENT: Sent packet seq_num 263
+28.9041 - EVENT: Received ACK expected seq_num 260
+28.9041 - EVENT: Sent packet seq_num 264
+28.9584 - EVENT: Received ACK expected seq_num 261
+28.9591 - EVENT: Sent packet seq_num 265
+29.0188 - EVENT: Received ACK expected seq_num 262
+29.0189 - EVENT: Sent packet seq_num 266
+29.0189 - EVENT: Sent packet seq_num 267
+30.0196 - EVENT: TIMEOUT occurred at base 262
+30.0225 - EVENT: Retransmission seq_num 262
+30.0732 - EVENT: Received ACK expected seq_num 263
+30.0733 - EVENT: Retransmission seq_num 263
+30.0733 - EVENT: Retransmission seq_num 264
+30.1284 - EVENT: Received ACK expected seq_num 264
+30.1284 - EVENT: Retransmission seq_num 265
+30.1284 - EVENT: Retransmission seq_num 266
+30.1795 - EVENT: Received ACK expected seq_num 265
+30.1795 - EVENT: Retransmission seq_num 267
+30.2301 - EVENT: Received ACK expected seq_num 266
+30.2302 - EVENT: Sent packet seq_num 268
+30.2851 - EVENT: Received ACK expected seq_num 267
+30.2852 - EVENT: Sent packet seq_num 269
+30.2852 - EVENT: Sent packet seq_num 270
+30.3372 - EVENT: Received ACK expected seq_num 268
+30.3373 - EVENT: Sent packet seq_num 271
+30.3891 - EVENT: Received ACK expected seq_num 269
+30.3891 - EVENT: Sent packet seq_num 272
+30.4406 - EVENT: Received ACK expected seq_num 270
+30.441 - EVENT: Sent packet seq_num 273
+30.4919 - EVENT: Received ACK expected seq_num 271
+30.4919 - EVENT: Sent packet seq_num 274
+30.4919 - EVENT: Sent packet seq_num 275
+30.5442 - EVENT: Received ACK expected seq_num 272
+30.5443 - EVENT: Sent packet seq_num 276
+30.5957 - EVENT: Received ACK expected seq_num 273
+30.5957 - EVENT: Sent packet seq_num 277
+30.6462 - EVENT: Received ACK expected seq_num 274
+30.6463 - EVENT: Sent packet seq_num 278
+30.6992 - EVENT: Received ACK expected seq_num 275
+30.6993 - EVENT: Sent packet seq_num 279
+30.7519 - EVENT: Received ACK expected seq_num 276
+30.7519 - EVENT: Sent packet seq_num 280
+30.7519 - EVENT: Sent packet seq_num 281
+30.8034 - EVENT: Received ACK expected seq_num 277
+30.8034 - EVENT: Sent packet seq_num 282
+30.8544 - EVENT: Received ACK expected seq_num 278
+30.8545 - EVENT: Sent packet seq_num 283
+30.913 - EVENT: Received ACK expected seq_num 279
+30.9131 - EVENT: Sent packet seq_num 284
+30.9684 - EVENT: Received ACK expected seq_num 280
+30.9684 - EVENT: Sent packet seq_num 285
+31.019 - EVENT: Received ACK expected seq_num 281
+31.0191 - EVENT: Sent packet seq_num 286
+31.0711 - EVENT: Received ACK expected seq_num 282
+31.0711 - EVENT: Sent packet seq_num 287
+31.0712 - EVENT: Sent packet seq_num 288
+31.1221 - EVENT: Received ACK expected seq_num 283
+31.1221 - EVENT: Sent packet seq_num 289
+31.1722 - EVENT: Received ACK expected seq_num 284
+31.1723 - EVENT: Sent packet seq_num 290
+31.2231 - EVENT: Received ACK expected seq_num 285
+31.2232 - EVENT: Sent packet seq_num 291
+31.275 - EVENT: Received ACK expected seq_num 286
+31.275 - EVENT: Sent packet seq_num 292
+31.328 - EVENT: Received ACK expected seq_num 287
+31.328 - EVENT: Sent packet seq_num 293
+31.3777 - EVENT: Received ACK expected seq_num 288
+31.3778 - EVENT: Sent packet seq_num 294
+31.4278 - EVENT: Received ACK expected seq_num 289
+31.4278 - EVENT: Sent packet seq_num 295
+31.4278 - EVENT: Sent packet seq_num 296
+31.4803 - EVENT: Received ACK expected seq_num 290
+31.4804 - EVENT: Sent packet seq_num 297
+31.5345 - EVENT: Received ACK expected seq_num 291
+31.5345 - EVENT: Sent packet seq_num 298
+32.5354 - EVENT: TIMEOUT occurred at base 291
+32.537 - EVENT: Retransmission seq_num 291
+32.5887 - EVENT: Received ACK expected seq_num 292
+32.5888 - EVENT: Retransmission seq_num 292
+32.5889 - EVENT: Retransmission seq_num 293
+32.6407 - EVENT: Received ACK expected seq_num 293
+32.6407 - EVENT: Retransmission seq_num 294
+32.6407 - EVENT: Retransmission seq_num 295
+32.6935 - EVENT: Received ACK expected seq_num 294
+32.6936 - EVENT: Retransmission seq_num 296
+32.6936 - EVENT: Retransmission seq_num 297
+32.7469 - EVENT: Received ACK expected seq_num 295
+32.747 - EVENT: Retransmission seq_num 298
+32.797 - EVENT: Received ACK expected seq_num 296
+32.797 - EVENT: Sent packet seq_num 299
+32.8483 - EVENT: Received ACK expected seq_num 297
+32.8483 - EVENT: Sent packet seq_num 300
+32.8987 - EVENT: Received ACK expected seq_num 298
+32.8987 - EVENT: Sent packet seq_num 301
+32.8987 - EVENT: Sent packet seq_num 302
+32.9489 - EVENT: Received ACK expected seq_num 299
+32.9497 - EVENT: Sent packet seq_num 303
+33.0006 - EVENT: Received ACK expected seq_num 300
+33.0006 - EVENT: Sent packet seq_num 304
+33.0513 - EVENT: Received ACK expected seq_num 301
+33.0513 - EVENT: Sent packet seq_num 305
+33.1015 - EVENT: Received ACK expected seq_num 302
+33.1016 - EVENT: Sent packet seq_num 306
+33.1531 - EVENT: Received ACK expected seq_num 303
+33.1531 - EVENT: Sent packet seq_num 307
+33.1531 - EVENT: Sent packet seq_num 308
+33.2131 - EVENT: Received ACK expected seq_num 304
+33.2133 - EVENT: Sent packet seq_num 309
+33.2647 - EVENT: Received ACK expected seq_num 305
+33.2647 - EVENT: Sent packet seq_num 310
+33.3292 - EVENT: Received ACK expected seq_num 306
+33.3293 - EVENT: Sent packet seq_num 311
+33.3802 - EVENT: Received ACK expected seq_num 307
+33.3803 - EVENT: Sent packet seq_num 312
+33.4309 - EVENT: Received ACK expected seq_num 308
+33.431 - EVENT: Sent packet seq_num 313
+33.482 - EVENT: Received ACK expected seq_num 309
+33.4821 - EVENT: Sent packet seq_num 314
+33.4821 - EVENT: Sent packet seq_num 315
+33.5355 - EVENT: Received ACK expected seq_num 310
+33.5355 - EVENT: Sent packet seq_num 316
+33.5847 - EVENT: Received ACK expected seq_num 311
+33.5847 - EVENT: Sent packet seq_num 317
+33.6376 - EVENT: Received ACK expected seq_num 312
+33.6377 - EVENT: Sent packet seq_num 318
+33.6934 - EVENT: Received ACK expected seq_num 313
+33.6935 - EVENT: Sent packet seq_num 319
+33.7458 - EVENT: Received ACK expected seq_num 314
+33.7458 - EVENT: Sent packet seq_num 320
+33.799 - EVENT: Received ACK expected seq_num 315
+33.7991 - EVENT: Sent packet seq_num 321
+33.858 - EVENT: Received ACK expected seq_num 316
+33.858 - EVENT: Sent packet seq_num 322
+33.858 - EVENT: Sent packet seq_num 323
+33.911 - EVENT: Received ACK expected seq_num 317
+33.9111 - EVENT: Sent packet seq_num 324
+33.9606 - EVENT: Received ACK expected seq_num 318
+33.9606 - EVENT: Sent packet seq_num 325
+34.0149 - EVENT: Received ACK expected seq_num 319
+34.015 - EVENT: Sent packet seq_num 326
+34.0668 - EVENT: Received ACK expected seq_num 320
+34.0668 - EVENT: Sent packet seq_num 327
+34.1186 - EVENT: Received ACK expected seq_num 321
+34.1187 - EVENT: Sent packet seq_num 328
+34.1724 - EVENT: Received ACK expected seq_num 322
+34.1725 - EVENT: Sent packet seq_num 329
+34.2236 - EVENT: Received ACK expected seq_num 323
+34.2237 - EVENT: Sent packet seq_num 330
+34.2768 - EVENT: Received ACK expected seq_num 324
+34.277 - EVENT: Sent packet seq_num 331
+34.277 - EVENT: Sent packet seq_num 332
+34.3309 - EVENT: Received ACK expected seq_num 325
+34.3311 - EVENT: Sent packet seq_num 333
+34.3841 - EVENT: Received ACK expected seq_num 326
+34.3842 - EVENT: Sent packet seq_num 334
+34.4344 - EVENT: Received ACK expected seq_num 327
+34.4345 - EVENT: Sent packet seq_num 335
+34.5002 - EVENT: Received ACK expected seq_num 328
+34.5003 - EVENT: Sent packet seq_num 336
+34.5522 - EVENT: Received ACK expected seq_num 329
+34.5523 - EVENT: Sent packet seq_num 337
+34.6025 - EVENT: Received ACK expected seq_num 330
+34.6025 - EVENT: Sent packet seq_num 338
+34.6544 - EVENT: Received ACK expected seq_num 331
+34.6544 - EVENT: Sent packet seq_num 339
+34.7067 - EVENT: Received ACK expected seq_num 332
+34.7067 - EVENT: Sent packet seq_num 340
+34.7593 - EVENT: Received ACK expected seq_num 333
+34.7594 - EVENT: Sent packet seq_num 341
+34.7594 - EVENT: Sent packet seq_num 342
+35.7599 - EVENT: TIMEOUT occurred at base 333
+35.7612 - EVENT: Retransmission seq_num 333
+35.8118 - EVENT: Received ACK expected seq_num 334
+35.812 - EVENT: Retransmission seq_num 334
+35.812 - EVENT: Retransmission seq_num 335
+35.8651 - EVENT: Received ACK expected seq_num 335
+35.8651 - EVENT: Retransmission seq_num 336
+35.8651 - EVENT: Retransmission seq_num 337
+35.9147 - EVENT: Received ACK expected seq_num 336
+35.915 - EVENT: Retransmission seq_num 338
+35.915 - EVENT: Retransmission seq_num 339
+36.9172 - EVENT: TIMEOUT occurred at base 336
+36.9183 - EVENT: Retransmission seq_num 336
+36.9782 - EVENT: Received ACK expected seq_num 337
+36.9783 - EVENT: Retransmission seq_num 337
+36.9783 - EVENT: Retransmission seq_num 338
+37.0329 - EVENT: Received ACK expected seq_num 338
+37.033 - EVENT: Retransmission seq_num 339
+37.0821 - EVENT: Received ACK expected seq_num 339
+37.0821 - EVENT: Retransmission seq_num 340
+37.0821 - EVENT: Retransmission seq_num 341
+37.1323 - EVENT: Received ACK expected seq_num 340
+37.1323 - EVENT: Retransmission seq_num 342
+38.1334 - EVENT: TIMEOUT occurred at base 340
+38.1348 - EVENT: Retransmission seq_num 340
+38.1874 - EVENT: Received ACK expected seq_num 341
+38.1874 - EVENT: Retransmission seq_num 341
+38.1874 - EVENT: Retransmission seq_num 342
+38.243 - EVENT: Received ACK expected seq_num 342
+38.2432 - EVENT: Sent packet seq_num 343
+38.2931 - EVENT: Received ACK expected seq_num 343
+38.2931 - EVENT: Sent packet seq_num 344
+38.2931 - EVENT: Sent packet seq_num 345
+38.3452 - EVENT: Received ACK expected seq_num 344
+38.3453 - EVENT: Sent packet seq_num 346
+39.3466 - EVENT: TIMEOUT occurred at base 344
+39.3485 - EVENT: Retransmission seq_num 344
+40.3497 - EVENT: TIMEOUT occurred at base 344
+40.3521 - EVENT: Retransmission seq_num 344
+40.41 - EVENT: Received ACK expected seq_num 345
+40.41 - EVENT: Retransmission seq_num 345
+40.41 - EVENT: Retransmission seq_num 346
+40.4624 - EVENT: Received ACK expected seq_num 346
+40.4624 - EVENT: Sent packet seq_num 347
+40.5142 - EVENT: Received ACK expected seq_num 347
+40.5143 - EVENT: Sent packet seq_num 348
+40.5143 - EVENT: Sent packet seq_num 349
+40.5666 - EVENT: Received ACK expected seq_num 348
+40.5667 - EVENT: Sent packet seq_num 350
+40.6179 - EVENT: Received ACK expected seq_num 349
+40.618 - EVENT: Sent packet seq_num 351
+40.669 - EVENT: Received ACK expected seq_num 350
+40.6707 - EVENT: Sent packet seq_num 352
+40.6708 - EVENT: Sent packet seq_num 353
+40.7223 - EVENT: Received ACK expected seq_num 351
+40.7224 - EVENT: Sent packet seq_num 354
+40.7799 - EVENT: Received ACK expected seq_num 352
+40.7803 - EVENT: Sent packet seq_num 355
+40.8343 - EVENT: Received ACK expected seq_num 353
+40.8343 - EVENT: Sent packet seq_num 356
+40.8876 - EVENT: Received ACK expected seq_num 354
+40.8877 - EVENT: Sent packet seq_num 357
+40.8877 - EVENT: Sent packet seq_num 358
+40.9432 - EVENT: Received ACK expected seq_num 355
+40.9433 - EVENT: Sent packet seq_num 359
+41.0123 - EVENT: Received ACK expected seq_num 356
+41.0123 - EVENT: Sent packet seq_num 360
+41.0756 - EVENT: Received ACK expected seq_num 357
+41.0774 - EVENT: Sent packet seq_num 361
+41.1286 - EVENT: Received ACK expected seq_num 358
+41.1286 - EVENT: Sent packet seq_num 362
+41.19 - EVENT: Received ACK expected seq_num 359
+41.1901 - EVENT: Sent packet seq_num 363
+41.1901 - EVENT: Sent packet seq_num 364
+41.2398 - EVENT: Received ACK expected seq_num 360
+41.2399 - EVENT: Sent packet seq_num 365
+41.2958 - EVENT: Received ACK expected seq_num 361
+41.2961 - EVENT: Sent packet seq_num 366
+41.3491 - EVENT: Received ACK expected seq_num 362
+41.3491 - EVENT: Sent packet seq_num 367
+41.4021 - EVENT: Received ACK expected seq_num 363
+41.4032 - EVENT: Sent packet seq_num 368
+41.4576 - EVENT: Received ACK expected seq_num 364
+41.4576 - EVENT: Sent packet seq_num 369
+41.5115 - EVENT: Received ACK expected seq_num 365
+41.5125 - EVENT: Sent packet seq_num 370
+41.5125 - EVENT: Sent packet seq_num 371
+41.5626 - EVENT: Received ACK expected seq_num 366
+41.5631 - EVENT: Sent packet seq_num 372
+41.6218 - EVENT: Received ACK expected seq_num 367
+41.6219 - EVENT: Sent packet seq_num 373
+41.6749 - EVENT: Received ACK expected seq_num 368
+41.6751 - EVENT: Sent packet seq_num 374
+41.7292 - EVENT: Received ACK expected seq_num 369
+41.7292 - EVENT: Sent packet seq_num 375
+41.7818 - EVENT: Received ACK expected seq_num 370
+41.7822 - EVENT: Sent packet seq_num 376
+41.8331 - EVENT: Received ACK expected seq_num 371
+41.8339 - EVENT: Sent packet seq_num 377
+41.8871 - EVENT: Received ACK expected seq_num 372
+41.8875 - EVENT: Sent packet seq_num 378
+41.8875 - EVENT: Sent packet seq_num 379
+41.9382 - EVENT: Received ACK expected seq_num 373
+41.9382 - EVENT: Sent packet seq_num 380
+41.9926 - EVENT: Received ACK expected seq_num 374
+41.9927 - EVENT: Sent packet seq_num 381
+42.048 - EVENT: Received ACK expected seq_num 375
+42.0481 - EVENT: Sent packet seq_num 382
+43.0484 - EVENT: TIMEOUT occurred at base 375
+43.0501 - EVENT: Retransmission seq_num 375
+43.1009 - EVENT: Received ACK expected seq_num 376
+43.1009 - EVENT: Retransmission seq_num 376
+43.1009 - EVENT: Retransmission seq_num 377
+43.1526 - EVENT: Received ACK expected seq_num 377
+43.1526 - EVENT: Retransmission seq_num 378
+43.1526 - EVENT: Retransmission seq_num 379
+43.2033 - EVENT: Received ACK expected seq_num 378
+43.2033 - EVENT: Retransmission seq_num 380
+43.2033 - EVENT: Retransmission seq_num 381
+43.2552 - EVENT: Received ACK expected seq_num 379
+43.2552 - EVENT: Retransmission seq_num 382
+43.3083 - EVENT: Received ACK expected seq_num 380
+43.3083 - EVENT: Sent packet seq_num 383
+44.3156 - EVENT: TIMEOUT occurred at base 380
+44.3222 - EVENT: Retransmission seq_num 380
+44.3745 - EVENT: Received ACK expected seq_num 381
+44.3746 - EVENT: Retransmission seq_num 381
+44.3746 - EVENT: Retransmission seq_num 382
+44.4297 - EVENT: Received ACK expected seq_num 382
+44.4298 - EVENT: Retransmission seq_num 383
+44.4845 - EVENT: Received ACK expected seq_num 383
+44.4845 - EVENT: Sent packet seq_num 384
+44.4845 - EVENT: Sent packet seq_num 385
+44.5524 - EVENT: Received ACK expected seq_num 384
+44.5524 - EVENT: Sent packet seq_num 386
+44.6023 - EVENT: Received ACK expected seq_num 385
+44.6024 - EVENT: Sent packet seq_num 387
+44.6544 - EVENT: Received ACK expected seq_num 386
+44.6544 - EVENT: Sent packet seq_num 388
+44.6544 - EVENT: Sent packet seq_num 389
+44.7049 - EVENT: Received ACK expected seq_num 387
+44.7049 - EVENT: Sent packet seq_num 390
+44.7591 - EVENT: Received ACK expected seq_num 388
+44.7591 - EVENT: Sent packet seq_num 391
+44.8141 - EVENT: Received ACK expected seq_num 389
+44.8142 - EVENT: Sent packet seq_num 392
+44.8704 - EVENT: Received ACK expected seq_num 390
+44.8705 - EVENT: Sent packet seq_num 393
+44.8705 - EVENT: Sent packet seq_num 394
+44.9218 - EVENT: Received ACK expected seq_num 391
+44.9219 - EVENT: Sent packet seq_num 395
+44.9727 - EVENT: Received ACK expected seq_num 392
+44.9729 - EVENT: Sent packet seq_num 396
+45.0291 - EVENT: Received ACK expected seq_num 393
+45.0295 - EVENT: Sent packet seq_num 397
+45.0882 - EVENT: Received ACK expected seq_num 394
+45.0882 - EVENT: Sent packet seq_num 398
+45.1395 - EVENT: Received ACK expected seq_num 395
+45.1397 - EVENT: Sent packet seq_num 399
+45.1397 - EVENT: Sent packet seq_num 400
+45.1925 - EVENT: Received ACK expected seq_num 396
+45.1926 - EVENT: Sent packet seq_num 401
+45.244 - EVENT: Received ACK expected seq_num 397
+45.244 - EVENT: Sent packet seq_num 402
+45.2941 - EVENT: Received ACK expected seq_num 398
+45.2941 - EVENT: Sent packet seq_num 403
+45.346 - EVENT: Received ACK expected seq_num 399
+45.3461 - EVENT: Sent packet seq_num 404
+45.3972 - EVENT: Received ACK expected seq_num 400
+45.3972 - EVENT: Sent packet seq_num 405
+45.4497 - EVENT: Received ACK expected seq_num 401
+45.4498 - EVENT: Sent packet seq_num 406
+45.4498 - EVENT: Sent packet seq_num 407
+45.5018 - EVENT: Received ACK expected seq_num 402
+45.5018 - EVENT: Sent packet seq_num 408
+45.5546 - EVENT: Received ACK expected seq_num 403
+45.5547 - EVENT: Sent packet seq_num 409
+45.6065 - EVENT: Received ACK expected seq_num 404
+45.6066 - EVENT: Sent packet seq_num 410
+45.6583 - EVENT: Received ACK expected seq_num 405
+45.6584 - EVENT: Sent packet seq_num 411
+45.7163 - EVENT: Received ACK expected seq_num 406
+45.7163 - EVENT: Sent packet seq_num 412
+46.7182 - EVENT: TIMEOUT occurred at base 406
+46.7222 - EVENT: Retransmission seq_num 406
+46.7736 - EVENT: Received ACK expected seq_num 407
+46.7737 - EVENT: Retransmission seq_num 407
+46.7737 - EVENT: Retransmission seq_num 408
+46.8334 - EVENT: Received ACK expected seq_num 408
+46.8334 - EVENT: Retransmission seq_num 409
+46.8334 - EVENT: Retransmission seq_num 410
+46.885 - EVENT: Received ACK expected seq_num 409
+46.8851 - EVENT: Retransmission seq_num 411
+46.935 - EVENT: Received ACK expected seq_num 410
+46.9351 - EVENT: Retransmission seq_num 412
+46.9878 - EVENT: Received ACK expected seq_num 411
+46.9878 - EVENT: Sent packet seq_num 413
+46.9878 - EVENT: Sent packet seq_num 414
+47.0398 - EVENT: Received ACK expected seq_num 412
+47.04 - EVENT: Sent packet seq_num 415
+47.0912 - EVENT: Received ACK expected seq_num 413
+47.0913 - EVENT: Sent packet seq_num 416
+47.195 - EVENT: Received ACK expected seq_num 414
+47.1953 - EVENT: Sent packet seq_num 417
+47.2479 - EVENT: Received ACK expected seq_num 415
+47.248 - EVENT: Sent packet seq_num 418
+47.248 - EVENT: Sent packet seq_num 419
+47.2969 - EVENT: Received ACK expected seq_num 416
+47.297 - EVENT: Sent packet seq_num 420
+47.3483 - EVENT: Received ACK expected seq_num 417
+47.3484 - EVENT: Sent packet seq_num 421
+47.4 - EVENT: Received ACK expected seq_num 418
+47.4 - EVENT: Sent packet seq_num 422
+47.453 - EVENT: Received ACK expected seq_num 419
+47.453 - EVENT: Sent packet seq_num 423
+47.5035 - EVENT: Received ACK expected seq_num 420
+47.5036 - EVENT: Sent packet seq_num 424
+47.5036 - EVENT: Sent packet seq_num 425
+47.5554 - EVENT: Received ACK expected seq_num 421
+47.5555 - EVENT: Sent packet seq_num 426
+47.6064 - EVENT: Received ACK expected seq_num 422
+47.6064 - EVENT: Sent packet seq_num 427
+47.6592 - EVENT: Received ACK expected seq_num 423
+47.6593 - EVENT: Sent packet seq_num 428
+48.6593 - EVENT: TIMEOUT occurred at base 423
+48.6609 - EVENT: Retransmission seq_num 423
+48.712 - EVENT: Received ACK expected seq_num 424
+48.712 - EVENT: Retransmission seq_num 424
+48.7121 - EVENT: Retransmission seq_num 425
+48.7635 - EVENT: Received ACK expected seq_num 425
+48.7635 - EVENT: Retransmission seq_num 426
+48.7635 - EVENT: Retransmission seq_num 427
+48.8141 - EVENT: Received ACK expected seq_num 426
+48.8141 - EVENT: Retransmission seq_num 428
+48.865 - EVENT: Received ACK expected seq_num 427
+48.865 - EVENT: Sent packet seq_num 429
+48.9177 - EVENT: Received ACK expected seq_num 428
+48.918 - EVENT: Sent packet seq_num 430
+48.918 - EVENT: Sent packet seq_num 431
+48.9721 - EVENT: Received ACK expected seq_num 429
+48.9722 - EVENT: Sent packet seq_num 432
+49.9742 - EVENT: TIMEOUT occurred at base 429
+49.9765 - EVENT: Retransmission seq_num 429
+50.0308 - EVENT: Received ACK expected seq_num 430
+50.031 - EVENT: Retransmission seq_num 430
+50.031 - EVENT: Retransmission seq_num 431
+50.0822 - EVENT: Received ACK expected seq_num 431
+50.0823 - EVENT: Retransmission seq_num 432
+50.1333 - EVENT: Received ACK expected seq_num 432
+50.1333 - EVENT: Sent packet seq_num 433
+50.1333 - EVENT: Sent packet seq_num 434
+50.1833 - EVENT: Received ACK expected seq_num 433
+50.1833 - EVENT: Sent packet seq_num 435
+50.2341 - EVENT: Received ACK expected seq_num 434
+50.2342 - EVENT: Sent packet seq_num 436
+50.2863 - EVENT: Received ACK expected seq_num 435
+50.2863 - EVENT: Sent packet seq_num 437
+50.2863 - EVENT: Sent packet seq_num 438
+50.3378 - EVENT: Received ACK expected seq_num 436
+50.3379 - EVENT: Sent packet seq_num 439
+50.3886 - EVENT: Received ACK expected seq_num 437
+50.3887 - EVENT: Sent packet seq_num 440
+50.4508 - EVENT: Received ACK expected seq_num 438
+50.4513 - EVENT: Sent packet seq_num 441
+50.5034 - EVENT: Received ACK expected seq_num 439
+50.5035 - EVENT: Sent packet seq_num 442
+50.5035 - EVENT: Sent packet seq_num 443
+50.5562 - EVENT: Received ACK expected seq_num 440
+50.5563 - EVENT: Sent packet seq_num 444
+50.6079 - EVENT: Received ACK expected seq_num 441
+50.6084 - EVENT: Sent packet seq_num 445
+50.6595 - EVENT: Received ACK expected seq_num 442
+50.6596 - EVENT: Sent packet seq_num 446
+50.7131 - EVENT: Received ACK expected seq_num 443
+50.7131 - EVENT: Sent packet seq_num 447
+50.7641 - EVENT: Received ACK expected seq_num 444
+50.7641 - EVENT: Sent packet seq_num 448
+50.7644 - EVENT: Sent packet seq_num 449
+50.8198 - EVENT: Received ACK expected seq_num 445
+50.8199 - EVENT: Sent packet seq_num 450
+50.8838 - EVENT: Received ACK expected seq_num 446
+50.8838 - EVENT: Sent packet seq_num 451
+50.9395 - EVENT: Received ACK expected seq_num 447
+50.9396 - EVENT: Sent packet seq_num 452
+51.013 - EVENT: Received ACK expected seq_num 448
+51.0136 - EVENT: Sent packet seq_num 453
+51.0624 - EVENT: Received ACK expected seq_num 449
+51.0625 - EVENT: Sent packet seq_num 454
+51.1148 - EVENT: Received ACK expected seq_num 450
+51.1152 - EVENT: Sent packet seq_num 455
+51.1152 - EVENT: Sent packet seq_num 456
+52.1302 - EVENT: TIMEOUT occurred at base 450
+52.1322 - EVENT: Retransmission seq_num 450
+52.1852 - EVENT: Received ACK expected seq_num 451
+52.1853 - EVENT: Retransmission seq_num 451
+52.1853 - EVENT: Retransmission seq_num 452
+52.2373 - EVENT: Received ACK expected seq_num 452
+52.2374 - EVENT: Retransmission seq_num 453
+52.2374 - EVENT: Retransmission seq_num 454
+52.2881 - EVENT: Received ACK expected seq_num 453
+52.2881 - EVENT: Retransmission seq_num 455
+52.3384 - EVENT: Received ACK expected seq_num 454
+52.3385 - EVENT: Retransmission seq_num 456
+52.3885 - EVENT: Received ACK expected seq_num 455
+52.3888 - EVENT: Sent packet seq_num 457
+52.3888 - EVENT: Sent packet seq_num 458
+52.4392 - EVENT: Received ACK expected seq_num 456
+52.4392 - EVENT: Sent packet seq_num 459
+52.4922 - EVENT: Received ACK expected seq_num 457
+52.4923 - EVENT: Sent packet seq_num 460
+52.5518 - EVENT: Received ACK expected seq_num 458
+52.552 - EVENT: Sent packet seq_num 461
+52.6021 - EVENT: Received ACK expected seq_num 459
+52.6021 - EVENT: Sent packet seq_num 462
+52.6021 - EVENT: Sent packet seq_num 463
+52.6546 - EVENT: Received ACK expected seq_num 460
+52.6547 - EVENT: Sent packet seq_num 464
+52.7093 - EVENT: Received ACK expected seq_num 461
+52.7094 - EVENT: Sent packet seq_num 465
+53.7102 - EVENT: TIMEOUT occurred at base 461
+53.7122 - EVENT: Retransmission seq_num 461
+53.7647 - EVENT: Received ACK expected seq_num 462
+53.7648 - EVENT: Retransmission seq_num 462
+53.7648 - EVENT: Retransmission seq_num 463
+53.8167 - EVENT: Received ACK expected seq_num 463
+53.8173 - EVENT: Retransmission seq_num 464
+53.8679 - EVENT: Received ACK expected seq_num 464
+53.8681 - EVENT: Retransmission seq_num 465
+53.8681 - EVENT: Sent packet seq_num 466
+53.9183 - EVENT: Received ACK expected seq_num 465
+53.9183 - EVENT: Sent packet seq_num 467
+53.9689 - EVENT: Received ACK expected seq_num 466
+53.969 - EVENT: Sent packet seq_num 468
+54.0202 - EVENT: Received ACK expected seq_num 467
+54.0204 - EVENT: Sent packet seq_num 469
+54.0204 - EVENT: Sent packet seq_num 470
+54.0726 - EVENT: Received ACK expected seq_num 468
+54.0727 - EVENT: Sent packet seq_num 471
+54.1237 - EVENT: Received ACK expected seq_num 469
+54.1239 - EVENT: Sent packet seq_num 472
+54.1763 - EVENT: Received ACK expected seq_num 470
+54.1763 - EVENT: Sent packet seq_num 473
+54.2354 - EVENT: Received ACK expected seq_num 471
+54.2355 - EVENT: Sent packet seq_num 474
+54.2356 - EVENT: Sent packet seq_num 475
+54.2951 - EVENT: Received ACK expected seq_num 472
+54.2951 - EVENT: Sent packet seq_num 476
+54.3502 - EVENT: Received ACK expected seq_num 473
+54.3503 - EVENT: Sent packet seq_num 477
+55.351 - EVENT: TIMEOUT occurred at base 473
+55.3521 - EVENT: Retransmission seq_num 473
+55.4029 - EVENT: Received ACK expected seq_num 474
+55.4029 - EVENT: Retransmission seq_num 474
+55.4029 - EVENT: Retransmission seq_num 475
+55.4549 - EVENT: Received ACK expected seq_num 475
+55.455 - EVENT: Retransmission seq_num 476
+55.5066 - EVENT: Received ACK expected seq_num 476
+55.5067 - EVENT: Retransmission seq_num 477
+55.5067 - EVENT: Sent packet seq_num 478
+55.5565 - EVENT: Received ACK expected seq_num 477
+55.5566 - EVENT: Sent packet seq_num 479
+55.6076 - EVENT: Received ACK expected seq_num 478
+55.6077 - EVENT: Sent packet seq_num 480
+55.6596 - EVENT: Received ACK expected seq_num 479
+55.6596 - EVENT: Sent packet seq_num 481
+55.6596 - EVENT: Sent packet seq_num 482
+55.7104 - EVENT: Received ACK expected seq_num 480
+55.7104 - EVENT: Sent packet seq_num 483
+55.7604 - EVENT: Received ACK expected seq_num 481
+55.7604 - EVENT: Sent packet seq_num 484
+55.8129 - EVENT: Received ACK expected seq_num 482
+55.8129 - EVENT: Sent packet seq_num 485
+55.866 - EVENT: Received ACK expected seq_num 483
+55.866 - EVENT: Sent packet seq_num 486
+55.866 - EVENT: Sent packet seq_num 487
+55.9206 - EVENT: Received ACK expected seq_num 484
+55.9206 - EVENT: Sent packet seq_num 488
+55.9732 - EVENT: Received ACK expected seq_num 485
+55.9736 - EVENT: Sent packet seq_num 489
+56.0288 - EVENT: Received ACK expected seq_num 486
+56.0288 - EVENT: Sent packet seq_num 490
+56.1021 - EVENT: Received ACK expected seq_num 487
+56.1022 - EVENT: Sent packet seq_num 491
+56.156 - EVENT: Received ACK expected seq_num 488
+56.1561 - EVENT: Sent packet seq_num 492
+56.1561 - EVENT: Sent packet seq_num 493
+56.2094 - EVENT: Received ACK expected seq_num 489
+56.2095 - EVENT: Sent packet seq_num 494
+56.2632 - EVENT: Received ACK expected seq_num 490
+56.2633 - EVENT: Sent packet seq_num 495
+56.3127 - EVENT: Received ACK expected seq_num 491
+56.3127 - EVENT: Sent packet seq_num 496
+56.3644 - EVENT: Received ACK expected seq_num 492
+56.3645 - EVENT: Sent packet seq_num 497
+56.4182 - EVENT: Received ACK expected seq_num 493
+56.4183 - EVENT: Sent packet seq_num 498
+56.4698 - EVENT: Received ACK expected seq_num 494
+56.4699 - EVENT: Sent packet seq_num 499
+56.4699 - EVENT: Sent packet seq_num 500
+57.4792 - EVENT: TIMEOUT occurred at base 494
+57.4815 - EVENT: Retransmission seq_num 494
+57.5322 - EVENT: Received ACK expected seq_num 495
+57.5322 - EVENT: Retransmission seq_num 495
+57.5322 - EVENT: Retransmission seq_num 496
+57.5851 - EVENT: Received ACK expected seq_num 496
+57.5851 - EVENT: Retransmission seq_num 497
+57.5851 - EVENT: Retransmission seq_num 498
+57.637 - EVENT: Received ACK expected seq_num 497
+57.637 - EVENT: Retransmission seq_num 499
+57.6877 - EVENT: Received ACK expected seq_num 498
+57.6877 - EVENT: Retransmission seq_num 500
+57.7414 - EVENT: Received ACK expected seq_num 499
+57.7414 - EVENT: Sent packet seq_num 501
+57.7414 - EVENT: Sent packet seq_num 502
+57.7931 - EVENT: Received ACK expected seq_num 500
+57.7931 - EVENT: Sent packet seq_num 503
+57.8438 - EVENT: Received ACK expected seq_num 501
+57.8439 - EVENT: Sent packet seq_num 504
+57.8939 - EVENT: Received ACK expected seq_num 502
+57.894 - EVENT: Sent packet seq_num 505
+57.9455 - EVENT: Received ACK expected seq_num 503
+57.9455 - EVENT: Sent packet seq_num 506
+57.9455 - EVENT: Sent packet seq_num 507
+57.9974 - EVENT: Received ACK expected seq_num 504
+57.9974 - EVENT: Sent packet seq_num 508
+58.0511 - EVENT: Received ACK expected seq_num 505
+58.0512 - EVENT: Sent packet seq_num 509
+58.1009 - EVENT: Received ACK expected seq_num 506
+58.1009 - EVENT: Sent packet seq_num 510
+58.1518 - EVENT: Received ACK expected seq_num 507
+58.1522 - EVENT: Sent packet seq_num 511
+58.204 - EVENT: Received ACK expected seq_num 508
+58.204 - EVENT: Sent packet seq_num 512
+58.204 - EVENT: Sent packet seq_num 513
+58.2561 - EVENT: Received ACK expected seq_num 509
+58.2562 - EVENT: Sent packet seq_num 514
+58.307 - EVENT: Received ACK expected seq_num 510
+58.3071 - EVENT: Sent packet seq_num 515
+58.3598 - EVENT: Received ACK expected seq_num 511
+58.3599 - EVENT: Sent packet seq_num 516
+58.4114 - EVENT: Received ACK expected seq_num 512
+58.4114 - EVENT: Sent packet seq_num 517
+58.4619 - EVENT: Received ACK expected seq_num 513
+58.4619 - EVENT: Sent packet seq_num 518
+58.5151 - EVENT: Received ACK expected seq_num 514
+58.5151 - EVENT: Sent packet seq_num 519
+58.5151 - EVENT: Sent packet seq_num 520
+58.5648 - EVENT: Received ACK expected seq_num 515
+58.5649 - EVENT: Sent packet seq_num 521
+58.6202 - EVENT: Received ACK expected seq_num 516
+58.6203 - EVENT: Sent packet seq_num 522
+58.6868 - EVENT: Received ACK expected seq_num 517
+58.6868 - EVENT: Sent packet seq_num 523
+58.7413 - EVENT: Received ACK expected seq_num 518
+58.7414 - EVENT: Sent packet seq_num 524
+58.7805 - EVENT: Received ACK expected seq_num 519
+58.7805 - EVENT: Sent packet seq_num 525
+58.8348 - EVENT: Received ACK expected seq_num 520
+58.8348 - EVENT: Sent packet seq_num 526
+58.8911 - EVENT: Received ACK expected seq_num 521
+58.8912 - EVENT: Sent packet seq_num 527
+58.8912 - EVENT: Sent packet seq_num 528
+58.9452 - EVENT: Received ACK expected seq_num 522
+58.9452 - EVENT: Sent packet seq_num 529
+58.9971 - EVENT: Received ACK expected seq_num 523
+58.9972 - EVENT: Sent packet seq_num 530
+59.0485 - EVENT: Received ACK expected seq_num 524
+59.0486 - EVENT: Sent packet seq_num 531
+59.1004 - EVENT: Received ACK expected seq_num 525
+59.1005 - EVENT: Sent packet seq_num 532
+59.1518 - EVENT: Received ACK expected seq_num 526
+59.1519 - EVENT: Sent packet seq_num 533
+59.2041 - EVENT: Received ACK expected seq_num 527
+59.2042 - EVENT: Sent packet seq_num 534
+59.2593 - EVENT: Received ACK expected seq_num 528
+59.2594 - EVENT: Sent packet seq_num 535
+59.3105 - EVENT: Received ACK expected seq_num 529
+59.3105 - EVENT: Sent packet seq_num 536
+59.3105 - EVENT: Sent packet seq_num 537
+59.3633 - EVENT: Received ACK expected seq_num 530
+59.3633 - EVENT: Sent packet seq_num 538
+59.4132 - EVENT: Received ACK expected seq_num 531
+59.4133 - EVENT: Sent packet seq_num 539
+59.4673 - EVENT: Received ACK expected seq_num 532
+59.4674 - EVENT: Sent packet seq_num 540
+60.4687 - EVENT: TIMEOUT occurred at base 532
+60.4707 - EVENT: Retransmission seq_num 532
+60.5249 - EVENT: Received ACK expected seq_num 533
+60.525 - EVENT: Retransmission seq_num 533
+60.5251 - EVENT: Retransmission seq_num 534
+60.577 - EVENT: Received ACK expected seq_num 534
+60.5771 - EVENT: Retransmission seq_num 535
+60.5771 - EVENT: Retransmission seq_num 536
+60.6272 - EVENT: Received ACK expected seq_num 535
+60.6273 - EVENT: Retransmission seq_num 537
+60.6273 - EVENT: Retransmission seq_num 538
+60.679 - EVENT: Received ACK expected seq_num 536
+60.679 - EVENT: Retransmission seq_num 539
+60.73 - EVENT: Received ACK expected seq_num 537
+60.7301 - EVENT: Retransmission seq_num 540
+60.7824 - EVENT: Received ACK expected seq_num 538
+60.7824 - EVENT: Sent packet seq_num 541
+60.8359 - EVENT: Received ACK expected seq_num 539
+60.8359 - EVENT: Sent packet seq_num 542
+60.8359 - EVENT: Sent packet seq_num 543
+60.8857 - EVENT: Received ACK expected seq_num 540
+60.8857 - EVENT: Sent packet seq_num 544
+60.9383 - EVENT: Received ACK expected seq_num 541
+60.9383 - EVENT: Sent packet seq_num 545
+60.9892 - EVENT: Received ACK expected seq_num 542
+60.9893 - EVENT: Sent packet seq_num 546
+61.0416 - EVENT: Received ACK expected seq_num 543
+61.0416 - EVENT: Sent packet seq_num 547
+61.0919 - EVENT: Received ACK expected seq_num 544
+61.092 - EVENT: Sent packet seq_num 548
+61.092 - EVENT: Sent packet seq_num 549
+61.1431 - EVENT: Received ACK expected seq_num 545
+61.1431 - EVENT: Sent packet seq_num 550
+61.2026 - EVENT: Received ACK expected seq_num 546
+61.2026 - EVENT: Sent packet seq_num 551
+61.2535 - EVENT: Received ACK expected seq_num 547
+61.2535 - EVENT: Sent packet seq_num 552
+61.3062 - EVENT: Received ACK expected seq_num 548
+61.3063 - EVENT: Sent packet seq_num 553
+61.3594 - EVENT: Received ACK expected seq_num 549
+61.3595 - EVENT: Sent packet seq_num 554
+61.4108 - EVENT: Received ACK expected seq_num 550
+61.4109 - EVENT: Sent packet seq_num 555
+61.4109 - EVENT: Sent packet seq_num 556
+61.4635 - EVENT: Received ACK expected seq_num 551
+61.4636 - EVENT: Sent packet seq_num 557
+61.5172 - EVENT: Received ACK expected seq_num 552
+61.5177 - EVENT: Sent packet seq_num 558
+61.5694 - EVENT: Received ACK expected seq_num 553
+61.5703 - EVENT: Sent packet seq_num 559
+61.6227 - EVENT: Received ACK expected seq_num 554
+61.6228 - EVENT: Sent packet seq_num 560
+61.6809 - EVENT: Received ACK expected seq_num 555
+61.6809 - EVENT: Sent packet seq_num 561
+61.732 - EVENT: Received ACK expected seq_num 556
+61.7321 - EVENT: Sent packet seq_num 562
+61.7825 - EVENT: Received ACK expected seq_num 557
+61.7825 - EVENT: Sent packet seq_num 563
+61.7825 - EVENT: Sent packet seq_num 564
+61.8346 - EVENT: Received ACK expected seq_num 558
+61.8347 - EVENT: Sent packet seq_num 565
+61.8876 - EVENT: Received ACK expected seq_num 559
+61.8877 - EVENT: Sent packet seq_num 566
+61.942 - EVENT: Received ACK expected seq_num 560
+61.9427 - EVENT: Sent packet seq_num 567
+61.9964 - EVENT: Received ACK expected seq_num 561
+61.9965 - EVENT: Sent packet seq_num 568
+62.0482 - EVENT: Received ACK expected seq_num 562
+62.0482 - EVENT: Sent packet seq_num 569
+62.0998 - EVENT: Received ACK expected seq_num 563
+62.0999 - EVENT: Sent packet seq_num 570
+62.1527 - EVENT: Received ACK expected seq_num 564
+62.1528 - EVENT: Sent packet seq_num 571
+62.2145 - EVENT: Received ACK expected seq_num 565
+62.2145 - EVENT: Sent packet seq_num 572
+62.2145 - EVENT: Sent packet seq_num 573
+62.2653 - EVENT: Received ACK expected seq_num 566
+62.2654 - EVENT: Sent packet seq_num 574
+62.3558 - EVENT: Received ACK expected seq_num 567
+62.3559 - EVENT: Sent packet seq_num 575
+62.4077 - EVENT: Received ACK expected seq_num 568
+62.4078 - EVENT: Sent packet seq_num 576
+62.4595 - EVENT: Received ACK expected seq_num 569
+62.4595 - EVENT: Sent packet seq_num 577
+62.5135 - EVENT: Received ACK expected seq_num 570
+62.5135 - EVENT: Sent packet seq_num 578
+62.5717 - EVENT: Received ACK expected seq_num 571
+62.5718 - EVENT: Sent packet seq_num 579
+62.623 - EVENT: Received ACK expected seq_num 572
+62.623 - EVENT: Sent packet seq_num 580
+62.6746 - EVENT: Received ACK expected seq_num 573
+62.6746 - EVENT: Sent packet seq_num 581
+62.7288 - EVENT: Received ACK expected seq_num 574
+62.7289 - EVENT: Sent packet seq_num 582
+62.7289 - EVENT: Sent packet seq_num 583
+62.7804 - EVENT: Received ACK expected seq_num 575
+62.7805 - EVENT: Sent packet seq_num 584
+62.9405 - EVENT: Received ACK expected seq_num 576
+62.9409 - EVENT: Sent packet seq_num 585
+62.9905 - EVENT: Received ACK expected seq_num 577
+62.9906 - EVENT: Sent packet seq_num 586
+63.0453 - EVENT: Received ACK expected seq_num 578
+63.0453 - EVENT: Sent packet seq_num 587
+63.0961 - EVENT: Received ACK expected seq_num 579
+63.0962 - EVENT: Sent packet seq_num 588
+63.1484 - EVENT: Received ACK expected seq_num 580
+63.1485 - EVENT: Sent packet seq_num 589
+63.2001 - EVENT: Received ACK expected seq_num 581
+63.2001 - EVENT: Sent packet seq_num 590
+63.2526 - EVENT: Received ACK expected seq_num 582
+63.2527 - EVENT: Sent packet seq_num 591
+63.3035 - EVENT: Received ACK expected seq_num 583
+63.3035 - EVENT: Sent packet seq_num 592
+63.3542 - EVENT: Received ACK expected seq_num 584
+63.3543 - EVENT: Sent packet seq_num 593
+63.4076 - EVENT: Received ACK expected seq_num 585
+63.4076 - EVENT: Sent packet seq_num 594
+63.4076 - EVENT: Sent packet seq_num 595
+63.4601 - EVENT: Received ACK expected seq_num 586
+63.4602 - EVENT: Sent packet seq_num 596
+63.5115 - EVENT: Received ACK expected seq_num 587
+63.5116 - EVENT: Sent packet seq_num 597
+63.5619 - EVENT: Received ACK expected seq_num 588
+63.5619 - EVENT: Sent packet seq_num 598
+63.6143 - EVENT: Received ACK expected seq_num 589
+63.6144 - EVENT: Sent packet seq_num 599
+63.6679 - EVENT: Received ACK expected seq_num 590
+63.668 - EVENT: Sent packet seq_num 600
+63.7253 - EVENT: Received ACK expected seq_num 591
+63.7254 - EVENT: Sent packet seq_num 601
+63.7789 - EVENT: Received ACK expected seq_num 592
+63.7789 - EVENT: Sent packet seq_num 602
+63.8313 - EVENT: Received ACK expected seq_num 593
+63.8314 - EVENT: Sent packet seq_num 603
+63.8922 - EVENT: Received ACK expected seq_num 594
+63.8931 - EVENT: Sent packet seq_num 604
+63.9443 - EVENT: Received ACK expected seq_num 595
+63.945 - EVENT: Sent packet seq_num 605
+63.945 - EVENT: Sent packet seq_num 606
+64.0042 - EVENT: Received ACK expected seq_num 596
+64.0043 - EVENT: Sent packet seq_num 607
+64.0563 - EVENT: Received ACK expected seq_num 597
+64.0564 - EVENT: Sent packet seq_num 608
+64.1125 - EVENT: Received ACK expected seq_num 598
+64.1125 - EVENT: Sent packet seq_num 609
+64.1708 - EVENT: Received ACK expected seq_num 599
+64.1709 - EVENT: Sent packet seq_num 610
+64.2249 - EVENT: Received ACK expected seq_num 600
+64.2252 - EVENT: Sent packet seq_num 611
+64.2805 - EVENT: Received ACK expected seq_num 601
+64.2806 - EVENT: Sent packet seq_num 612
+64.3395 - EVENT: Received ACK expected seq_num 602
+64.3396 - EVENT: Sent packet seq_num 613
+64.3916 - EVENT: Received ACK expected seq_num 603
+64.3917 - EVENT: Sent packet seq_num 614
+64.4471 - EVENT: Received ACK expected seq_num 604
+64.4472 - EVENT: Sent packet seq_num 615
+64.5001 - EVENT: Received ACK expected seq_num 605
+64.5019 - EVENT: Sent packet seq_num 616
+64.5509 - EVENT: Received ACK expected seq_num 606
+64.551 - EVENT: Sent packet seq_num 617
+64.6043 - EVENT: Received ACK expected seq_num 607
+64.6046 - EVENT: Sent packet seq_num 618
+64.6046 - EVENT: Sent packet seq_num 619
+64.6583 - EVENT: Received ACK expected seq_num 608
+64.6591 - EVENT: Sent packet seq_num 620
+64.7122 - EVENT: Received ACK expected seq_num 609
+64.7122 - EVENT: Sent packet seq_num 621
+64.7656 - EVENT: Received ACK expected seq_num 610
+64.7656 - EVENT: Sent packet seq_num 622
+64.8156 - EVENT: Received ACK expected seq_num 611
+64.8157 - EVENT: Sent packet seq_num 623
+64.8715 - EVENT: Received ACK expected seq_num 612
+64.8716 - EVENT: Sent packet seq_num 624
+64.9254 - EVENT: Received ACK expected seq_num 613
+64.9255 - EVENT: Sent packet seq_num 625
+64.9754 - EVENT: Received ACK expected seq_num 614
+64.9755 - EVENT: Sent packet seq_num 626
+65.0274 - EVENT: Received ACK expected seq_num 615
+65.0275 - EVENT: Sent packet seq_num 627
+65.0899 - EVENT: Received ACK expected seq_num 616
+65.0899 - EVENT: Sent packet seq_num 628
+65.1458 - EVENT: Received ACK expected seq_num 617
+65.1465 - EVENT: Sent packet seq_num 629
+65.2003 - EVENT: Received ACK expected seq_num 618
+65.2003 - EVENT: Sent packet seq_num 630
+65.2515 - EVENT: Received ACK expected seq_num 619
+65.2516 - EVENT: Sent packet seq_num 631
+65.3113 - EVENT: Received ACK expected seq_num 620
+65.3113 - EVENT: Sent packet seq_num 632
+65.3114 - EVENT: Sent packet seq_num 633
+65.3731 - EVENT: Received ACK expected seq_num 621
+65.3732 - EVENT: Sent packet seq_num 634
+65.4291 - EVENT: Received ACK expected seq_num 622
+65.4291 - EVENT: Sent packet seq_num 635
+65.489 - EVENT: Received ACK expected seq_num 623
+65.4891 - EVENT: Sent packet seq_num 636
+65.57 - EVENT: Received ACK expected seq_num 624
+65.5701 - EVENT: Sent packet seq_num 637
+65.62 - EVENT: Received ACK expected seq_num 625
+65.6201 - EVENT: Sent packet seq_num 638
+65.6742 - EVENT: Received ACK expected seq_num 626
+65.6742 - EVENT: Sent packet seq_num 639
+65.7256 - EVENT: Received ACK expected seq_num 627
+65.7257 - EVENT: Sent packet seq_num 640
+65.7777 - EVENT: Received ACK expected seq_num 628
+65.7777 - EVENT: Sent packet seq_num 641
+65.8335 - EVENT: Received ACK expected seq_num 629
+65.8335 - EVENT: Sent packet seq_num 642
+65.884 - EVENT: Received ACK expected seq_num 630
+65.8841 - EVENT: Sent packet seq_num 643
+65.9427 - EVENT: Received ACK expected seq_num 631
+65.9428 - EVENT: Sent packet seq_num 644
+65.9992 - EVENT: Received ACK expected seq_num 632
+65.9992 - EVENT: Sent packet seq_num 645
+66.0513 - EVENT: Received ACK expected seq_num 633
+66.0514 - EVENT: Sent packet seq_num 646
+66.109 - EVENT: Received ACK expected seq_num 634
+66.1091 - EVENT: Sent packet seq_num 647
+66.1091 - EVENT: Sent packet seq_num 648
+66.1611 - EVENT: Received ACK expected seq_num 635
+66.1611 - EVENT: Sent packet seq_num 649
+66.2144 - EVENT: Received ACK expected seq_num 636
+66.2144 - EVENT: Sent packet seq_num 650
+66.2662 - EVENT: Received ACK expected seq_num 637
+66.2663 - EVENT: Sent packet seq_num 651
+66.3183 - EVENT: Received ACK expected seq_num 638
+66.3193 - EVENT: Sent packet seq_num 652
+66.3742 - EVENT: Received ACK expected seq_num 639
+66.3743 - EVENT: Sent packet seq_num 653
+66.4314 - EVENT: Received ACK expected seq_num 640
+66.4314 - EVENT: Sent packet seq_num 654
+66.4822 - EVENT: Received ACK expected seq_num 641
+66.4822 - EVENT: Sent packet seq_num 655
+66.5375 - EVENT: Received ACK expected seq_num 642
+66.5375 - EVENT: Sent packet seq_num 656
+66.5883 - EVENT: Received ACK expected seq_num 643
+66.5884 - EVENT: Sent packet seq_num 657
+66.6412 - EVENT: Received ACK expected seq_num 644
+66.6413 - EVENT: Sent packet seq_num 658
+66.6977 - EVENT: Received ACK expected seq_num 645
+66.6977 - EVENT: Sent packet seq_num 659
+66.7495 - EVENT: Received ACK expected seq_num 646
+66.7495 - EVENT: Sent packet seq_num 660
+66.8002 - EVENT: Received ACK expected seq_num 647
+66.8002 - EVENT: Sent packet seq_num 661
+66.8506 - EVENT: Received ACK expected seq_num 648
+66.8506 - EVENT: Sent packet seq_num 662
+66.9025 - EVENT: Received ACK expected seq_num 649
+66.9025 - EVENT: Sent packet seq_num 663
+66.9025 - EVENT: Sent packet seq_num 664
+66.9547 - EVENT: Received ACK expected seq_num 650
+66.9548 - EVENT: Sent packet seq_num 665
+67.0062 - EVENT: Received ACK expected seq_num 651
+67.0065 - EVENT: Sent packet seq_num 666
+67.0626 - EVENT: Received ACK expected seq_num 652
+67.0626 - EVENT: Sent packet seq_num 667
+68.067 - EVENT: TIMEOUT occurred at base 652
+68.0693 - EVENT: Retransmission seq_num 652
+68.1221 - EVENT: Received ACK expected seq_num 653
+68.1223 - EVENT: Retransmission seq_num 653
+68.1223 - EVENT: Retransmission seq_num 654
+68.1752 - EVENT: Received ACK expected seq_num 654
+68.1752 - EVENT: Retransmission seq_num 655
+68.1753 - EVENT: Retransmission seq_num 656
+68.2366 - EVENT: Received ACK expected seq_num 655
+68.2371 - EVENT: Retransmission seq_num 657
+68.2372 - EVENT: Retransmission seq_num 658
+68.289 - EVENT: Received ACK expected seq_num 656
+68.289 - EVENT: Retransmission seq_num 659
+68.289 - EVENT: Retransmission seq_num 660
+68.3401 - EVENT: Received ACK expected seq_num 657
+68.3402 - EVENT: Retransmission seq_num 661
+68.3402 - EVENT: Retransmission seq_num 662
+68.3918 - EVENT: Received ACK expected seq_num 658
+68.392 - EVENT: Retransmission seq_num 663
+68.392 - EVENT: Retransmission seq_num 664
+68.4442 - EVENT: Received ACK expected seq_num 659
+68.4442 - EVENT: Retransmission seq_num 665
+68.4442 - EVENT: Retransmission seq_num 666
+68.4935 - EVENT: Received ACK expected seq_num 660
+68.4936 - EVENT: Retransmission seq_num 667
+68.5469 - EVENT: Received ACK expected seq_num 661
+68.547 - EVENT: Sent packet seq_num 668
+68.5967 - EVENT: Received ACK expected seq_num 662
+68.5967 - EVENT: Sent packet seq_num 669
+68.6497 - EVENT: Received ACK expected seq_num 663
+68.6497 - EVENT: Sent packet seq_num 670
+68.7012 - EVENT: Received ACK expected seq_num 664
+68.7013 - EVENT: Sent packet seq_num 671
+68.7552 - EVENT: Received ACK expected seq_num 665
+68.7553 - EVENT: Sent packet seq_num 672
+68.8143 - EVENT: Received ACK expected seq_num 666
+68.8143 - EVENT: Sent packet seq_num 673
+68.865 - EVENT: Received ACK expected seq_num 667
+68.8651 - EVENT: Sent packet seq_num 674
+68.8651 - EVENT: Sent packet seq_num 675
+68.9168 - EVENT: Received ACK expected seq_num 668
+68.9169 - EVENT: Sent packet seq_num 676
+68.9664 - EVENT: Received ACK expected seq_num 669
+68.9664 - EVENT: Sent packet seq_num 677
+69.0166 - EVENT: Received ACK expected seq_num 670
+69.0167 - EVENT: Sent packet seq_num 678
+69.0692 - EVENT: Received ACK expected seq_num 671
+69.0693 - EVENT: Sent packet seq_num 679
+69.1207 - EVENT: Received ACK expected seq_num 672
+69.1207 - EVENT: Sent packet seq_num 680
+69.1707 - EVENT: Received ACK expected seq_num 673
+69.1707 - EVENT: Sent packet seq_num 681
+69.228 - EVENT: Received ACK expected seq_num 674
+69.2281 - EVENT: Sent packet seq_num 682
+69.2864 - EVENT: Received ACK expected seq_num 675
+69.2864 - EVENT: Sent packet seq_num 683
+69.3436 - EVENT: Received ACK expected seq_num 676
+69.3436 - EVENT: Sent packet seq_num 684
+69.399 - EVENT: Received ACK expected seq_num 677
+69.399 - EVENT: Sent packet seq_num 685
+69.399 - EVENT: Sent packet seq_num 686
+69.4661 - EVENT: Received ACK expected seq_num 678
+69.4661 - EVENT: Sent packet seq_num 687
+69.517 - EVENT: Received ACK expected seq_num 679
+69.5171 - EVENT: Sent packet seq_num 688
+69.568 - EVENT: Received ACK expected seq_num 680
+69.568 - EVENT: Sent packet seq_num 689
+69.6194 - EVENT: Received ACK expected seq_num 681
+69.6194 - EVENT: Sent packet seq_num 690
+69.6704 - EVENT: Received ACK expected seq_num 682
+69.6704 - EVENT: Sent packet seq_num 691
+69.7232 - EVENT: Received ACK expected seq_num 683
+69.7233 - EVENT: Sent packet seq_num 692
+69.7744 - EVENT: Received ACK expected seq_num 684
+69.7745 - EVENT: Sent packet seq_num 693
+69.8261 - EVENT: Received ACK expected seq_num 685
+69.8261 - EVENT: Sent packet seq_num 694
+69.8767 - EVENT: Received ACK expected seq_num 686
+69.8767 - EVENT: Sent packet seq_num 695
+69.8767 - EVENT: Sent packet seq_num 696
+69.9282 - EVENT: Received ACK expected seq_num 687
+69.9283 - EVENT: Sent packet seq_num 697
+69.9825 - EVENT: Received ACK expected seq_num 688
+69.9835 - EVENT: Sent packet seq_num 698
+70.0336 - EVENT: Received ACK expected seq_num 689
+70.0342 - EVENT: Sent packet seq_num 699
+70.0863 - EVENT: Received ACK expected seq_num 690
+70.0863 - EVENT: Sent packet seq_num 700
+70.1403 - EVENT: Received ACK expected seq_num 691
+70.1404 - EVENT: Sent packet seq_num 701
+70.2103 - EVENT: Received ACK expected seq_num 692
+70.2104 - EVENT: Sent packet seq_num 702
+70.2648 - EVENT: Received ACK expected seq_num 693
+70.2648 - EVENT: Sent packet seq_num 703
+71.2652 - EVENT: TIMEOUT occurred at base 693
+71.2669 - EVENT: Retransmission seq_num 693
+71.3209 - EVENT: Received ACK expected seq_num 694
+71.321 - EVENT: Retransmission seq_num 694
+71.321 - EVENT: Retransmission seq_num 695
+71.373 - EVENT: Received ACK expected seq_num 695
+71.373 - EVENT: Retransmission seq_num 696
+71.373 - EVENT: Retransmission seq_num 697
+71.4246 - EVENT: Received ACK expected seq_num 696
+71.4246 - EVENT: Retransmission seq_num 698
+71.4246 - EVENT: Retransmission seq_num 699
+71.4774 - EVENT: Received ACK expected seq_num 697
+71.4774 - EVENT: Retransmission seq_num 700
+71.4774 - EVENT: Retransmission seq_num 701
+71.5298 - EVENT: Received ACK expected seq_num 698
+71.5298 - EVENT: Retransmission seq_num 702
+71.5826 - EVENT: Received ACK expected seq_num 699
+71.5827 - EVENT: Retransmission seq_num 703
+71.6374 - EVENT: Received ACK expected seq_num 700
+71.6374 - EVENT: Sent packet seq_num 704
+71.7007 - EVENT: Received ACK expected seq_num 701
+71.7008 - EVENT: Sent packet seq_num 705
+71.7527 - EVENT: Received ACK expected seq_num 702
+71.7527 - EVENT: Sent packet seq_num 706
+71.7528 - EVENT: Sent packet seq_num 707
+71.8022 - EVENT: Received ACK expected seq_num 703
+71.8023 - EVENT: Sent packet seq_num 708
+71.8561 - EVENT: Received ACK expected seq_num 704
+71.8561 - EVENT: Sent packet seq_num 709
+71.9058 - EVENT: Received ACK expected seq_num 705
+71.9059 - EVENT: Sent packet seq_num 710
+71.9594 - EVENT: Received ACK expected seq_num 706
+71.96 - EVENT: Sent packet seq_num 711
+72.0086 - EVENT: Received ACK expected seq_num 707
+72.0088 - EVENT: Sent packet seq_num 712
+72.0588 - EVENT: Received ACK expected seq_num 708
+72.0588 - EVENT: Sent packet seq_num 713
+72.0588 - EVENT: Sent packet seq_num 714
+72.1292 - EVENT: Received ACK expected seq_num 709
+72.1292 - EVENT: Sent packet seq_num 715
+72.1766 - EVENT: Received ACK expected seq_num 710
+72.1767 - EVENT: Sent packet seq_num 716
+72.2291 - EVENT: Received ACK expected seq_num 711
+72.2291 - EVENT: Sent packet seq_num 717
+72.2795 - EVENT: Received ACK expected seq_num 712
+72.2795 - EVENT: Sent packet seq_num 718
+72.354 - EVENT: Received ACK expected seq_num 713
+72.3541 - EVENT: Sent packet seq_num 719
+72.4049 - EVENT: Received ACK expected seq_num 714
+72.405 - EVENT: Sent packet seq_num 720
+72.457 - EVENT: Received ACK expected seq_num 715
+72.4571 - EVENT: Sent packet seq_num 721
+72.4571 - EVENT: Sent packet seq_num 722
+72.5087 - EVENT: Received ACK expected seq_num 716
+72.5087 - EVENT: Sent packet seq_num 723
+72.5602 - EVENT: Received ACK expected seq_num 717
+72.5602 - EVENT: Sent packet seq_num 724
+72.6117 - EVENT: Received ACK expected seq_num 718
+72.6117 - EVENT: Sent packet seq_num 725
+72.6651 - EVENT: Received ACK expected seq_num 719
+72.6652 - EVENT: Sent packet seq_num 726
+72.7163 - EVENT: Received ACK expected seq_num 720
+72.7163 - EVENT: Sent packet seq_num 727
+72.7686 - EVENT: Received ACK expected seq_num 721
+72.7687 - EVENT: Sent packet seq_num 728
+72.8237 - EVENT: Received ACK expected seq_num 722
+72.8237 - EVENT: Sent packet seq_num 729
+73.8244 - EVENT: TIMEOUT occurred at base 722
+73.8256 - EVENT: Retransmission seq_num 722
+73.8792 - EVENT: Received ACK expected seq_num 723
+73.8793 - EVENT: Retransmission seq_num 723
+73.8793 - EVENT: Retransmission seq_num 724
+73.9308 - EVENT: Received ACK expected seq_num 724
+73.9309 - EVENT: Retransmission seq_num 725
+73.9309 - EVENT: Retransmission seq_num 726
+74.9331 - EVENT: TIMEOUT occurred at base 724
+74.9342 - EVENT: Retransmission seq_num 724
+74.9887 - EVENT: Received ACK expected seq_num 725
+74.9888 - EVENT: Retransmission seq_num 725
+74.9888 - EVENT: Retransmission seq_num 726
+75.0442 - EVENT: Received ACK expected seq_num 726
+75.0442 - EVENT: Retransmission seq_num 727
+75.0954 - EVENT: Received ACK expected seq_num 727
+75.0954 - EVENT: Retransmission seq_num 728
+75.0954 - EVENT: Retransmission seq_num 729
+75.1476 - EVENT: Received ACK expected seq_num 728
+75.1477 - EVENT: Sent packet seq_num 730
+75.2002 - EVENT: Received ACK expected seq_num 729
+75.2002 - EVENT: Sent packet seq_num 731
+75.2492 - EVENT: Received ACK expected seq_num 730
+75.2492 - EVENT: Sent packet seq_num 732
+75.2492 - EVENT: Sent packet seq_num 733
+75.3007 - EVENT: Received ACK expected seq_num 731
+75.3008 - EVENT: Sent packet seq_num 734
+75.3524 - EVENT: Received ACK expected seq_num 732
+75.3525 - EVENT: Sent packet seq_num 735
+75.4046 - EVENT: Received ACK expected seq_num 733
+75.4047 - EVENT: Sent packet seq_num 736
+75.4598 - EVENT: Received ACK expected seq_num 734
+75.4602 - EVENT: Sent packet seq_num 737
+75.4602 - EVENT: Sent packet seq_num 738
+75.5121 - EVENT: Received ACK expected seq_num 735
+75.5122 - EVENT: Sent packet seq_num 739
+75.5656 - EVENT: Received ACK expected seq_num 736
+75.5658 - EVENT: Sent packet seq_num 740
+75.6212 - EVENT: Received ACK expected seq_num 737
+75.6214 - EVENT: Sent packet seq_num 741
+75.675 - EVENT: Received ACK expected seq_num 738
+75.675 - EVENT: Sent packet seq_num 742
+75.7276 - EVENT: Received ACK expected seq_num 739
+75.7277 - EVENT: Sent packet seq_num 743
+75.7277 - EVENT: Sent packet seq_num 744
+75.7826 - EVENT: Received ACK expected seq_num 740
+75.7826 - EVENT: Sent packet seq_num 745
+75.837 - EVENT: Received ACK expected seq_num 741
+75.8374 - EVENT: Sent packet seq_num 746
+75.9043 - EVENT: Received ACK expected seq_num 742
+75.9051 - EVENT: Sent packet seq_num 747
+75.9626 - EVENT: Received ACK expected seq_num 743
+75.9629 - EVENT: Sent packet seq_num 748
+76.0189 - EVENT: Received ACK expected seq_num 744
+76.019 - EVENT: Sent packet seq_num 749
+76.0731 - EVENT: Received ACK expected seq_num 745
+76.0731 - EVENT: Sent packet seq_num 750
+76.0731 - EVENT: Sent packet seq_num 751
+76.126 - EVENT: Received ACK expected seq_num 746
+76.126 - EVENT: Sent packet seq_num 752
+76.1771 - EVENT: Received ACK expected seq_num 747
+76.1771 - EVENT: Sent packet seq_num 753
+76.2312 - EVENT: Received ACK expected seq_num 748
+76.2312 - EVENT: Sent packet seq_num 754
+76.2825 - EVENT: Received ACK expected seq_num 749
+76.2826 - EVENT: Sent packet seq_num 755
+76.3368 - EVENT: Received ACK expected seq_num 750
+76.3371 - EVENT: Sent packet seq_num 756
+76.3923 - EVENT: Received ACK expected seq_num 751
+76.3923 - EVENT: Sent packet seq_num 757
+76.4452 - EVENT: Received ACK expected seq_num 752
+76.4453 - EVENT: Sent packet seq_num 758
+76.4453 - EVENT: Sent packet seq_num 759
+76.4979 - EVENT: Received ACK expected seq_num 753
+76.498 - EVENT: Sent packet seq_num 760
+76.5526 - EVENT: Received ACK expected seq_num 754
+76.5527 - EVENT: Sent packet seq_num 761
+76.6036 - EVENT: Received ACK expected seq_num 755
+76.6036 - EVENT: Sent packet seq_num 762
+76.6555 - EVENT: Received ACK expected seq_num 756
+76.6555 - EVENT: Sent packet seq_num 763
+76.7125 - EVENT: Received ACK expected seq_num 757
+76.7132 - EVENT: Sent packet seq_num 764
+76.765 - EVENT: Received ACK expected seq_num 758
+76.7651 - EVENT: Sent packet seq_num 765
+76.8178 - EVENT: Received ACK expected seq_num 759
+76.8178 - EVENT: Sent packet seq_num 766
+76.873 - EVENT: Received ACK expected seq_num 760
+76.873 - EVENT: Sent packet seq_num 767
+76.8731 - EVENT: Sent packet seq_num 768
+76.9266 - EVENT: Received ACK expected seq_num 761
+76.9267 - EVENT: Sent packet seq_num 769
+76.9813 - EVENT: Received ACK expected seq_num 762
+76.9814 - EVENT: Sent packet seq_num 770
+77.0339 - EVENT: Received ACK expected seq_num 763
+77.0339 - EVENT: Sent packet seq_num 771
+78.0343 - EVENT: TIMEOUT occurred at base 763
+78.0358 - EVENT: Retransmission seq_num 763
+78.0881 - EVENT: Received ACK expected seq_num 764
+78.0882 - EVENT: Retransmission seq_num 764
+78.0882 - EVENT: Retransmission seq_num 765
+78.1393 - EVENT: Received ACK expected seq_num 765
+78.141 - EVENT: Retransmission seq_num 766
+78.141 - EVENT: Retransmission seq_num 767
+78.1918 - EVENT: Received ACK expected seq_num 766
+78.1919 - EVENT: Retransmission seq_num 768
+78.1919 - EVENT: Retransmission seq_num 769
+78.2425 - EVENT: Received ACK expected seq_num 767
+78.2426 - EVENT: Retransmission seq_num 770
+78.2925 - EVENT: Received ACK expected seq_num 768
+78.2925 - EVENT: Retransmission seq_num 771
+78.3428 - EVENT: Received ACK expected seq_num 769
+78.3428 - EVENT: Sent packet seq_num 772
+78.394 - EVENT: Received ACK expected seq_num 770
+78.3941 - EVENT: Sent packet seq_num 773
+78.3941 - EVENT: Sent packet seq_num 774
+78.4447 - EVENT: Received ACK expected seq_num 771
+78.4448 - EVENT: Sent packet seq_num 775
+78.4979 - EVENT: Received ACK expected seq_num 772
+78.4979 - EVENT: Sent packet seq_num 776
+78.5517 - EVENT: Received ACK expected seq_num 773
+78.5519 - EVENT: Sent packet seq_num 777
+78.6034 - EVENT: Received ACK expected seq_num 774
+78.6034 - EVENT: Sent packet seq_num 778
+78.6548 - EVENT: Received ACK expected seq_num 775
+78.6549 - EVENT: Sent packet seq_num 779
+78.6549 - EVENT: Sent packet seq_num 780
+78.7064 - EVENT: Received ACK expected seq_num 776
+78.7065 - EVENT: Sent packet seq_num 781
+78.7583 - EVENT: Received ACK expected seq_num 777
+78.7583 - EVENT: Sent packet seq_num 782
+78.8111 - EVENT: Received ACK expected seq_num 778
+78.8112 - EVENT: Sent packet seq_num 783
+79.8119 - EVENT: TIMEOUT occurred at base 778
+79.8133 - EVENT: Retransmission seq_num 778
+79.8642 - EVENT: Received ACK expected seq_num 779
+79.8643 - EVENT: Retransmission seq_num 779
+79.8643 - EVENT: Retransmission seq_num 780
+79.9172 - EVENT: Received ACK expected seq_num 780
+79.9172 - EVENT: Retransmission seq_num 781
+79.9172 - EVENT: Retransmission seq_num 782
+79.9692 - EVENT: Received ACK expected seq_num 781
+79.9693 - EVENT: Retransmission seq_num 783
+80.0201 - EVENT: Received ACK expected seq_num 782
+80.0201 - EVENT: Sent packet seq_num 784
+80.0741 - EVENT: Received ACK expected seq_num 783
+80.0742 - EVENT: Sent packet seq_num 785
+80.0742 - EVENT: Sent packet seq_num 786
+80.126 - EVENT: Received ACK expected seq_num 784
+80.1261 - EVENT: Sent packet seq_num 787
+80.1758 - EVENT: Received ACK expected seq_num 785
+80.1758 - EVENT: Sent packet seq_num 788
+80.2276 - EVENT: Received ACK expected seq_num 786
+80.2276 - EVENT: Sent packet seq_num 789
+80.279 - EVENT: Received ACK expected seq_num 787
+80.2791 - EVENT: Sent packet seq_num 790
+80.2791 - EVENT: Sent packet seq_num 791
+80.3293 - EVENT: Received ACK expected seq_num 788
+80.3294 - EVENT: Sent packet seq_num 792
+80.3826 - EVENT: Received ACK expected seq_num 789
+80.3827 - EVENT: Sent packet seq_num 793
+80.4396 - EVENT: Received ACK expected seq_num 790
+80.4397 - EVENT: Sent packet seq_num 794
+80.4968 - EVENT: Received ACK expected seq_num 791
+80.4969 - EVENT: Sent packet seq_num 795
+80.5484 - EVENT: Received ACK expected seq_num 792
+80.5485 - EVENT: Sent packet seq_num 796
+80.5485 - EVENT: Sent packet seq_num 797
+80.6014 - EVENT: Received ACK expected seq_num 793
+80.6014 - EVENT: Sent packet seq_num 798
+80.6536 - EVENT: Received ACK expected seq_num 794
+80.6538 - EVENT: Sent packet seq_num 799
+80.7057 - EVENT: Received ACK expected seq_num 795
+80.7058 - EVENT: Sent packet seq_num 800
+80.7586 - EVENT: Received ACK expected seq_num 796
+80.7587 - EVENT: Sent packet seq_num 801
+80.8096 - EVENT: Received ACK expected seq_num 797
+80.8096 - EVENT: Sent packet seq_num 802
+80.8614 - EVENT: Received ACK expected seq_num 798
+80.8615 - EVENT: Sent packet seq_num 803
+80.8615 - EVENT: Sent packet seq_num 804
+80.9124 - EVENT: Received ACK expected seq_num 799
+80.9125 - EVENT: Sent packet seq_num 805
+80.9644 - EVENT: Received ACK expected seq_num 800
+80.9645 - EVENT: Sent packet seq_num 806
+81.021 - EVENT: Received ACK expected seq_num 801
+81.021 - EVENT: Sent packet seq_num 807
+82.0226 - EVENT: TIMEOUT occurred at base 801
+82.0254 - EVENT: Retransmission seq_num 801
+82.0898 - EVENT: Received ACK expected seq_num 802
+82.0898 - EVENT: Retransmission seq_num 802
+82.0898 - EVENT: Retransmission seq_num 803
+82.142 - EVENT: Received ACK expected seq_num 803
+82.142 - EVENT: Retransmission seq_num 804
+82.142 - EVENT: Retransmission seq_num 805
+82.1917 - EVENT: Received ACK expected seq_num 804
+82.1917 - EVENT: Retransmission seq_num 806
+82.2425 - EVENT: Received ACK expected seq_num 805
+82.2425 - EVENT: Retransmission seq_num 807
+82.2932 - EVENT: Received ACK expected seq_num 806
+82.2933 - EVENT: Sent packet seq_num 808
+82.2933 - EVENT: Sent packet seq_num 809
+82.3441 - EVENT: Received ACK expected seq_num 807
+82.3441 - EVENT: Sent packet seq_num 810
+82.3964 - EVENT: Received ACK expected seq_num 808
+82.3964 - EVENT: Sent packet seq_num 811
+82.4474 - EVENT: Received ACK expected seq_num 809
+82.4474 - EVENT: Sent packet seq_num 812
+82.4978 - EVENT: Received ACK expected seq_num 810
+82.4978 - EVENT: Sent packet seq_num 813
+82.4978 - EVENT: Sent packet seq_num 814
+83.4991 - EVENT: TIMEOUT occurred at base 810
+83.5005 - EVENT: Retransmission seq_num 810
+83.5523 - EVENT: Received ACK expected seq_num 811
+83.5525 - EVENT: Retransmission seq_num 811
+83.5525 - EVENT: Retransmission seq_num 812
+83.609 - EVENT: Received ACK expected seq_num 812
+83.609 - EVENT: Retransmission seq_num 813
+83.6611 - EVENT: Received ACK expected seq_num 813
+83.6611 - EVENT: Retransmission seq_num 814
+83.6612 - EVENT: Sent packet seq_num 815
+83.7117 - EVENT: Received ACK expected seq_num 814
+83.7118 - EVENT: Sent packet seq_num 816
+83.7663 - EVENT: Received ACK expected seq_num 815
+83.7663 - EVENT: Sent packet seq_num 817
+83.8202 - EVENT: Received ACK expected seq_num 816
+83.8205 - EVENT: Sent packet seq_num 818
+83.8205 - EVENT: Sent packet seq_num 819
+83.8711 - EVENT: Received ACK expected seq_num 817
+83.8712 - EVENT: Sent packet seq_num 820
+83.9446 - EVENT: Received ACK expected seq_num 818
+83.9447 - EVENT: Sent packet seq_num 821
+84.0323 - EVENT: Received ACK expected seq_num 819
+84.0324 - EVENT: Sent packet seq_num 822
+84.0642 - EVENT: Received ACK expected seq_num 820
+84.0644 - EVENT: Sent packet seq_num 823
+84.0644 - EVENT: Sent packet seq_num 824
+84.1155 - EVENT: Received ACK expected seq_num 821
+84.1155 - EVENT: Sent packet seq_num 825
+84.1649 - EVENT: Received ACK expected seq_num 822
+84.165 - EVENT: Sent packet seq_num 826
+84.2172 - EVENT: Received ACK expected seq_num 823
+84.2172 - EVENT: Sent packet seq_num 827
+84.2681 - EVENT: Received ACK expected seq_num 824
+84.2682 - EVENT: Sent packet seq_num 828
+84.324 - EVENT: Received ACK expected seq_num 825
+84.324 - EVENT: Sent packet seq_num 829
+84.324 - EVENT: Sent packet seq_num 830
+84.3777 - EVENT: Received ACK expected seq_num 826
+84.3778 - EVENT: Sent packet seq_num 831
+84.4287 - EVENT: Received ACK expected seq_num 827
+84.4287 - EVENT: Sent packet seq_num 832
+84.5038 - EVENT: Received ACK expected seq_num 828
+84.5039 - EVENT: Sent packet seq_num 833
+84.5533 - EVENT: Received ACK expected seq_num 829
+84.5533 - EVENT: Sent packet seq_num 834
+84.6034 - EVENT: Received ACK expected seq_num 830
+84.6034 - EVENT: Sent packet seq_num 835
+84.6599 - EVENT: Received ACK expected seq_num 831
+84.6599 - EVENT: Sent packet seq_num 836
+84.6599 - EVENT: Sent packet seq_num 837
+85.663 - EVENT: TIMEOUT occurred at base 831
+85.6661 - EVENT: Retransmission seq_num 831
+85.7178 - EVENT: Received ACK expected seq_num 832
+85.7178 - EVENT: Retransmission seq_num 832
+85.7178 - EVENT: Retransmission seq_num 833
+85.7686 - EVENT: Received ACK expected seq_num 833
+85.7686 - EVENT: Retransmission seq_num 834
+85.7686 - EVENT: Retransmission seq_num 835
+85.8205 - EVENT: Received ACK expected seq_num 834
+85.8205 - EVENT: Retransmission seq_num 836
+85.8715 - EVENT: Received ACK expected seq_num 835
+85.8716 - EVENT: Retransmission seq_num 837
+85.9231 - EVENT: Received ACK expected seq_num 836
+85.9232 - EVENT: Sent packet seq_num 838
+85.9232 - EVENT: Sent packet seq_num 839
+85.9742 - EVENT: Received ACK expected seq_num 837
+85.9743 - EVENT: Sent packet seq_num 840
+86.0274 - EVENT: Received ACK expected seq_num 838
+86.0274 - EVENT: Sent packet seq_num 841
+86.0793 - EVENT: Received ACK expected seq_num 839
+86.0793 - EVENT: Sent packet seq_num 842
+86.1301 - EVENT: Received ACK expected seq_num 840
+86.1302 - EVENT: Sent packet seq_num 843
+86.1302 - EVENT: Sent packet seq_num 844
+86.1822 - EVENT: Received ACK expected seq_num 841
+86.1823 - EVENT: Sent packet seq_num 845
+86.2368 - EVENT: Received ACK expected seq_num 842
+86.237 - EVENT: Sent packet seq_num 846
+86.2893 - EVENT: Received ACK expected seq_num 843
+86.2895 - EVENT: Sent packet seq_num 847
+86.3472 - EVENT: Received ACK expected seq_num 844
+86.3473 - EVENT: Sent packet seq_num 848
+86.4236 - EVENT: Received ACK expected seq_num 845
+86.4247 - EVENT: Sent packet seq_num 849
+86.4247 - EVENT: Sent packet seq_num 850
+86.4727 - EVENT: Received ACK expected seq_num 846
+86.4727 - EVENT: Sent packet seq_num 851
+86.5247 - EVENT: Received ACK expected seq_num 847
+86.5247 - EVENT: Sent packet seq_num 852
+86.5751 - EVENT: Received ACK expected seq_num 848
+86.5752 - EVENT: Sent packet seq_num 853
+86.626 - EVENT: Received ACK expected seq_num 849
+86.626 - EVENT: Sent packet seq_num 854
+86.6776 - EVENT: Received ACK expected seq_num 850
+86.6776 - EVENT: Sent packet seq_num 855
+86.7284 - EVENT: Received ACK expected seq_num 851
+86.7284 - EVENT: Sent packet seq_num 856
+86.7284 - EVENT: Sent packet seq_num 857
+86.7791 - EVENT: Received ACK expected seq_num 852
+86.7791 - EVENT: Sent packet seq_num 858
+86.8304 - EVENT: Received ACK expected seq_num 853
+86.8304 - EVENT: Sent packet seq_num 859
+86.8813 - EVENT: Received ACK expected seq_num 854
+86.8813 - EVENT: Sent packet seq_num 860
+86.9332 - EVENT: Received ACK expected seq_num 855
+86.9332 - EVENT: Sent packet seq_num 861
+86.9851 - EVENT: Received ACK expected seq_num 856
+86.9851 - EVENT: Sent packet seq_num 862
+87.0372 - EVENT: Received ACK expected seq_num 857
+87.0372 - EVENT: Sent packet seq_num 863
+87.0887 - EVENT: Received ACK expected seq_num 858
+87.0887 - EVENT: Sent packet seq_num 864
+87.0887 - EVENT: Sent packet seq_num 865
+87.1386 - EVENT: Received ACK expected seq_num 859
+87.1387 - EVENT: Sent packet seq_num 866
+87.1919 - EVENT: Received ACK expected seq_num 860
+87.192 - EVENT: Sent packet seq_num 867
+87.2421 - EVENT: Received ACK expected seq_num 861
+87.2421 - EVENT: Sent packet seq_num 868
+87.2928 - EVENT: Received ACK expected seq_num 862
+87.2928 - EVENT: Sent packet seq_num 869
+87.3439 - EVENT: Received ACK expected seq_num 863
+87.344 - EVENT: Sent packet seq_num 870
+87.3952 - EVENT: Received ACK expected seq_num 864
+87.3953 - EVENT: Sent packet seq_num 871
+87.4485 - EVENT: Received ACK expected seq_num 865
+87.4486 - EVENT: Sent packet seq_num 872
+87.5056 - EVENT: Received ACK expected seq_num 866
+87.5056 - EVENT: Sent packet seq_num 873
+87.5064 - EVENT: Sent packet seq_num 874
+87.5597 - EVENT: Received ACK expected seq_num 867
+87.5598 - EVENT: Sent packet seq_num 875
+87.6142 - EVENT: Received ACK expected seq_num 868
+87.6143 - EVENT: Sent packet seq_num 876
+87.6663 - EVENT: Received ACK expected seq_num 869
+87.6663 - EVENT: Sent packet seq_num 877
+87.7193 - EVENT: Received ACK expected seq_num 870
+87.7194 - EVENT: Sent packet seq_num 878
+88.7201 - EVENT: TIMEOUT occurred at base 870
+88.7212 - EVENT: Retransmission seq_num 870
+88.7739 - EVENT: Received ACK expected seq_num 871
+88.774 - EVENT: Retransmission seq_num 871
+88.7741 - EVENT: Retransmission seq_num 872
+88.8267 - EVENT: Received ACK expected seq_num 872
+88.8268 - EVENT: Retransmission seq_num 873
+88.8268 - EVENT: Retransmission seq_num 874
+88.8764 - EVENT: Received ACK expected seq_num 873
+88.8764 - EVENT: Retransmission seq_num 875
+88.8764 - EVENT: Retransmission seq_num 876
+89.8772 - EVENT: TIMEOUT occurred at base 873
+89.8783 - EVENT: Retransmission seq_num 873
+89.931 - EVENT: Received ACK expected seq_num 874
+89.931 - EVENT: Retransmission seq_num 874
+89.931 - EVENT: Retransmission seq_num 875
+89.982 - EVENT: Received ACK expected seq_num 875
+89.982 - EVENT: Retransmission seq_num 876
+90.0361 - EVENT: Received ACK expected seq_num 876
+90.0362 - EVENT: Retransmission seq_num 877
+90.0362 - EVENT: Retransmission seq_num 878
+91.0365 - EVENT: TIMEOUT occurred at base 876
+91.0389 - EVENT: Retransmission seq_num 876
+91.0917 - EVENT: Received ACK expected seq_num 877
+91.0918 - EVENT: Retransmission seq_num 877
+91.0918 - EVENT: Retransmission seq_num 878
+91.1439 - EVENT: Received ACK expected seq_num 878
+91.144 - EVENT: Sent packet seq_num 879
+91.1994 - EVENT: Received ACK expected seq_num 879
+91.1995 - EVENT: Sent packet seq_num 880
+91.1995 - EVENT: Sent packet seq_num 881
+91.2508 - EVENT: Received ACK expected seq_num 880
+91.2509 - EVENT: Sent packet seq_num 882
+91.3015 - EVENT: Received ACK expected seq_num 881
+91.3016 - EVENT: Sent packet seq_num 883
+91.3522 - EVENT: Received ACK expected seq_num 882
+91.3522 - EVENT: Sent packet seq_num 884
+91.3522 - EVENT: Sent packet seq_num 885
+91.4038 - EVENT: Received ACK expected seq_num 883
+91.4038 - EVENT: Sent packet seq_num 886
+91.4551 - EVENT: Received ACK expected seq_num 884
+91.4551 - EVENT: Sent packet seq_num 887
+91.5086 - EVENT: Received ACK expected seq_num 885
+91.5087 - EVENT: Sent packet seq_num 888
+91.5644 - EVENT: Received ACK expected seq_num 886
+91.5644 - EVENT: Sent packet seq_num 889
+91.5644 - EVENT: Sent packet seq_num 890
+91.6172 - EVENT: Received ACK expected seq_num 887
+91.6173 - EVENT: Sent packet seq_num 891
+91.6697 - EVENT: Received ACK expected seq_num 888
+91.6698 - EVENT: Sent packet seq_num 892
+91.7215 - EVENT: Received ACK expected seq_num 889
+91.7232 - EVENT: Sent packet seq_num 893
+91.7745 - EVENT: Received ACK expected seq_num 890
+91.7746 - EVENT: Sent packet seq_num 894
+91.8256 - EVENT: Received ACK expected seq_num 891
+91.8257 - EVENT: Sent packet seq_num 895
+91.8257 - EVENT: Sent packet seq_num 896
+92.827 - EVENT: TIMEOUT occurred at base 891
+92.8285 - EVENT: Retransmission seq_num 891
+92.8804 - EVENT: Received ACK expected seq_num 892
+92.8805 - EVENT: Retransmission seq_num 892
+92.8805 - EVENT: Retransmission seq_num 893
+92.9315 - EVENT: Received ACK expected seq_num 893
+92.9316 - EVENT: Retransmission seq_num 894
+92.9316 - EVENT: Retransmission seq_num 895
+92.9841 - EVENT: Received ACK expected seq_num 894
+92.9841 - EVENT: Retransmission seq_num 896
+93.0349 - EVENT: Received ACK expected seq_num 895
+93.035 - EVENT: Sent packet seq_num 897
+93.0855 - EVENT: Received ACK expected seq_num 896
+93.0855 - EVENT: Sent packet seq_num 898
+93.0856 - EVENT: Sent packet seq_num 899
+93.1377 - EVENT: Received ACK expected seq_num 897
+93.1377 - EVENT: Sent packet seq_num 900
+93.1881 - EVENT: Received ACK expected seq_num 898
+93.1881 - EVENT: Sent packet seq_num 901
+93.2397 - EVENT: Received ACK expected seq_num 899
+93.2397 - EVENT: Sent packet seq_num 902
+93.2931 - EVENT: Received ACK expected seq_num 900
+93.2953 - EVENT: Sent packet seq_num 903
+93.2954 - EVENT: Sent packet seq_num 904
+93.3471 - EVENT: Received ACK expected seq_num 901
+93.3472 - EVENT: Sent packet seq_num 905
+93.3993 - EVENT: Received ACK expected seq_num 902
+93.3993 - EVENT: Sent packet seq_num 906
+93.4524 - EVENT: Received ACK expected seq_num 903
+93.4525 - EVENT: Sent packet seq_num 907
+93.5062 - EVENT: Received ACK expected seq_num 904
+93.5065 - EVENT: Sent packet seq_num 908
+93.5587 - EVENT: Received ACK expected seq_num 905
+93.5587 - EVENT: Sent packet seq_num 909
+93.5587 - EVENT: Sent packet seq_num 910
+94.5591 - EVENT: TIMEOUT occurred at base 905
+94.5603 - EVENT: Retransmission seq_num 905
+94.6126 - EVENT: Received ACK expected seq_num 906
+94.6127 - EVENT: Retransmission seq_num 906
+94.6127 - EVENT: Retransmission seq_num 907
+95.6135 - EVENT: TIMEOUT occurred at base 906
+95.6146 - EVENT: Retransmission seq_num 906
+95.6661 - EVENT: Received ACK expected seq_num 907
+95.6661 - EVENT: Retransmission seq_num 907
+95.6662 - EVENT: Retransmission seq_num 908
+95.717 - EVENT: Received ACK expected seq_num 908
+95.717 - EVENT: Retransmission seq_num 909
+95.7688 - EVENT: Received ACK expected seq_num 909
+95.7688 - EVENT: Retransmission seq_num 910
+95.7688 - EVENT: Sent packet seq_num 911
+95.8183 - EVENT: Received ACK expected seq_num 910
+95.8183 - EVENT: Sent packet seq_num 912
+95.8691 - EVENT: Received ACK expected seq_num 911
+95.8691 - EVENT: Sent packet seq_num 913
+95.9182 - EVENT: Received ACK expected seq_num 912
+95.9188 - EVENT: Sent packet seq_num 914
+95.9188 - EVENT: Sent packet seq_num 915
+95.9717 - EVENT: Received ACK expected seq_num 913
+95.9718 - EVENT: Sent packet seq_num 916
+96.0245 - EVENT: Received ACK expected seq_num 914
+96.0246 - EVENT: Sent packet seq_num 917
+96.0771 - EVENT: Received ACK expected seq_num 915
+96.0772 - EVENT: Sent packet seq_num 918
+96.1274 - EVENT: Received ACK expected seq_num 916
+96.1274 - EVENT: Sent packet seq_num 919
+96.1274 - EVENT: Sent packet seq_num 920
+96.1782 - EVENT: Received ACK expected seq_num 917
+96.1783 - EVENT: Sent packet seq_num 921
+96.23 - EVENT: Received ACK expected seq_num 918
+96.2301 - EVENT: Sent packet seq_num 922
+96.2819 - EVENT: Received ACK expected seq_num 919
+96.2823 - EVENT: Sent packet seq_num 923
+96.335 - EVENT: Received ACK expected seq_num 920
+96.335 - EVENT: Sent packet seq_num 924
+96.3933 - EVENT: Received ACK expected seq_num 921
+96.3934 - EVENT: Sent packet seq_num 925
+96.3934 - EVENT: Sent packet seq_num 926
+96.4444 - EVENT: Received ACK expected seq_num 922
+96.4445 - EVENT: Sent packet seq_num 927
+96.5006 - EVENT: Received ACK expected seq_num 923
+96.5006 - EVENT: Sent packet seq_num 928
+96.5522 - EVENT: Received ACK expected seq_num 924
+96.5523 - EVENT: Sent packet seq_num 929
+96.6044 - EVENT: Received ACK expected seq_num 925
+96.6045 - EVENT: Sent packet seq_num 930
+96.6623 - EVENT: Received ACK expected seq_num 926
+96.6624 - EVENT: Sent packet seq_num 931
+96.7135 - EVENT: Received ACK expected seq_num 927
+96.7136 - EVENT: Sent packet seq_num 932
+96.7136 - EVENT: Sent packet seq_num 933
+97.7141 - EVENT: TIMEOUT occurred at base 927
+97.7197 - EVENT: Retransmission seq_num 927
+97.7719 - EVENT: Received ACK expected seq_num 928
+97.772 - EVENT: Retransmission seq_num 928
+97.772 - EVENT: Retransmission seq_num 929
+98.7734 - EVENT: TIMEOUT occurred at base 928
+98.7754 - EVENT: Retransmission seq_num 928
+98.831 - EVENT: Received ACK expected seq_num 929
+98.831 - EVENT: Retransmission seq_num 929
+98.8311 - EVENT: Retransmission seq_num 930
+98.8835 - EVENT: Received ACK expected seq_num 930
+98.8836 - EVENT: Retransmission seq_num 931
+98.9342 - EVENT: Received ACK expected seq_num 931
+98.9342 - EVENT: Retransmission seq_num 932
+98.9342 - EVENT: Retransmission seq_num 933
+98.9852 - EVENT: Received ACK expected seq_num 932
+98.9852 - EVENT: Sent packet seq_num 934
+99.0351 - EVENT: Received ACK expected seq_num 933
+99.0351 - EVENT: Sent packet seq_num 935
+99.0872 - EVENT: Received ACK expected seq_num 934
+99.0873 - EVENT: Sent packet seq_num 936
+99.0874 - EVENT: Sent packet seq_num 937
+99.1389 - EVENT: Received ACK expected seq_num 935
+99.1389 - EVENT: Sent packet seq_num 938
+99.1943 - EVENT: Received ACK expected seq_num 936
+99.1943 - EVENT: Sent packet seq_num 939
+99.2475 - EVENT: Received ACK expected seq_num 937
+99.2475 - EVENT: Sent packet seq_num 940
+99.3 - EVENT: Received ACK expected seq_num 938
+99.3018 - EVENT: Sent packet seq_num 941
+99.3019 - EVENT: Sent packet seq_num 942
+99.3531 - EVENT: Received ACK expected seq_num 939
+99.3534 - EVENT: Sent packet seq_num 943
+99.4074 - EVENT: Received ACK expected seq_num 940
+99.4078 - EVENT: Sent packet seq_num 944
+100.408 - EVENT: TIMEOUT occurred at base 940
+100.41 - EVENT: Retransmission seq_num 940
+100.462 - EVENT: Received ACK expected seq_num 941
+100.462 - EVENT: Retransmission seq_num 941
+100.462 - EVENT: Retransmission seq_num 942
+100.513 - EVENT: Received ACK expected seq_num 942
+100.513 - EVENT: Retransmission seq_num 943
+100.564 - EVENT: Received ACK expected seq_num 943
+100.564 - EVENT: Retransmission seq_num 944
+100.565 - EVENT: Sent packet seq_num 945
+100.615 - EVENT: Received ACK expected seq_num 944
+100.615 - EVENT: Sent packet seq_num 946
+100.667 - EVENT: Received ACK expected seq_num 945
+100.668 - EVENT: Sent packet seq_num 947
+100.719 - EVENT: Received ACK expected seq_num 946
+100.719 - EVENT: Sent packet seq_num 948
+100.719 - EVENT: Sent packet seq_num 949
+100.77 - EVENT: Received ACK expected seq_num 947
+100.77 - EVENT: Sent packet seq_num 950
+100.82 - EVENT: Received ACK expected seq_num 948
+100.82 - EVENT: Sent packet seq_num 951
+100.871 - EVENT: Received ACK expected seq_num 949
+100.871 - EVENT: Sent packet seq_num 952
+100.923 - EVENT: Received ACK expected seq_num 950
+100.923 - EVENT: Sent packet seq_num 953
+100.923 - EVENT: Sent packet seq_num 954
+100.973 - EVENT: Received ACK expected seq_num 951
+100.973 - EVENT: Sent packet seq_num 955
+101.025 - EVENT: Received ACK expected seq_num 952
+101.025 - EVENT: Sent packet seq_num 956
+101.076 - EVENT: Received ACK expected seq_num 953
+101.077 - EVENT: Sent packet seq_num 957
+101.129 - EVENT: Received ACK expected seq_num 954
+101.129 - EVENT: Sent packet seq_num 958
+101.18 - EVENT: Received ACK expected seq_num 955
+101.18 - EVENT: Sent packet seq_num 959
+101.18 - EVENT: Sent packet seq_num 960
+101.235 - EVENT: Received ACK expected seq_num 956
+101.235 - EVENT: Sent packet seq_num 961
+101.291 - EVENT: Received ACK expected seq_num 957
+101.291 - EVENT: Sent packet seq_num 962
+101.346 - EVENT: Received ACK expected seq_num 958
+101.346 - EVENT: Sent packet seq_num 963
+101.4 - EVENT: Received ACK expected seq_num 959
+101.4 - EVENT: Sent packet seq_num 964
+101.452 - EVENT: Received ACK expected seq_num 960
+101.452 - EVENT: Sent packet seq_num 965
+101.504 - EVENT: Received ACK expected seq_num 961
+101.504 - EVENT: Sent packet seq_num 966
+101.504 - EVENT: Sent packet seq_num 967
+101.564 - EVENT: Received ACK expected seq_num 962
+101.564 - EVENT: Sent packet seq_num 968
+101.616 - EVENT: Received ACK expected seq_num 963
+101.616 - EVENT: Sent packet seq_num 969
+101.666 - EVENT: Received ACK expected seq_num 964
+101.666 - EVENT: Sent packet seq_num 970
+102.674 - EVENT: TIMEOUT occurred at base 964
+102.676 - EVENT: Retransmission seq_num 964
+102.727 - EVENT: Received ACK expected seq_num 965
+102.727 - EVENT: Retransmission seq_num 965
+102.727 - EVENT: Retransmission seq_num 966
+102.794 - EVENT: Received ACK expected seq_num 966
+102.794 - EVENT: Retransmission seq_num 967
+102.794 - EVENT: Retransmission seq_num 968
+103.795 - EVENT: TIMEOUT occurred at base 966
+103.796 - EVENT: Retransmission seq_num 966
+103.847 - EVENT: Received ACK expected seq_num 967
+103.847 - EVENT: Retransmission seq_num 967
+103.847 - EVENT: Retransmission seq_num 968
+103.898 - EVENT: Received ACK expected seq_num 968
+103.898 - EVENT: Retransmission seq_num 969
+103.949 - EVENT: Received ACK expected seq_num 969
+103.949 - EVENT: Retransmission seq_num 970
+103.949 - EVENT: Sent packet seq_num 971
+104.001 - EVENT: Received ACK expected seq_num 970
+104.001 - EVENT: Sent packet seq_num 972
+104.052 - EVENT: Received ACK expected seq_num 971
+104.052 - EVENT: Sent packet seq_num 973
+104.105 - EVENT: Received ACK expected seq_num 972
+104.105 - EVENT: Sent packet seq_num 974
+104.105 - EVENT: Sent packet seq_num 975
+104.158 - EVENT: Received ACK expected seq_num 973
+104.158 - EVENT: Sent packet seq_num 976
+104.21 - EVENT: Received ACK expected seq_num 974
+104.21 - EVENT: Sent packet seq_num 977
+104.262 - EVENT: Received ACK expected seq_num 975
+104.262 - EVENT: Sent packet seq_num 978
+104.313 - EVENT: Received ACK expected seq_num 976
+104.313 - EVENT: Sent packet seq_num 979
+104.313 - EVENT: Sent packet seq_num 980
+104.369 - EVENT: Received ACK expected seq_num 977
+104.369 - EVENT: Sent packet seq_num 981
+104.424 - EVENT: Received ACK expected seq_num 978
+104.424 - EVENT: Sent packet seq_num 982
+104.479 - EVENT: Received ACK expected seq_num 979
+104.479 - EVENT: Sent packet seq_num 983
+104.534 - EVENT: Received ACK expected seq_num 980
+104.534 - EVENT: Sent packet seq_num 984
+104.586 - EVENT: Received ACK expected seq_num 981
+104.586 - EVENT: Sent packet seq_num 985
+104.586 - EVENT: Sent packet seq_num 986
+104.637 - EVENT: Received ACK expected seq_num 982
+104.637 - EVENT: Sent packet seq_num 987
+104.696 - EVENT: Received ACK expected seq_num 983
+104.696 - EVENT: Sent packet seq_num 988
+104.749 - EVENT: Received ACK expected seq_num 984
+104.749 - EVENT: Sent packet seq_num 989
+104.8 - EVENT: Received ACK expected seq_num 985
+104.801 - EVENT: Sent packet seq_num 990
+104.853 - EVENT: Received ACK expected seq_num 986
+104.855 - EVENT: Sent packet seq_num 991
+104.906 - EVENT: Received ACK expected seq_num 987
+104.906 - EVENT: Sent packet seq_num 992
+104.906 - EVENT: Sent packet seq_num 993
+104.956 - EVENT: Received ACK expected seq_num 988
+104.956 - EVENT: Sent packet seq_num 994
+105.02 - EVENT: Received ACK expected seq_num 989
+105.02 - EVENT: Sent packet seq_num 995
+105.071 - EVENT: Received ACK expected seq_num 990
+105.071 - EVENT: Sent packet seq_num 996
+105.122 - EVENT: Received ACK expected seq_num 991
+105.122 - EVENT: Sent packet seq_num 997
+105.173 - EVENT: Received ACK expected seq_num 992
+105.173 - EVENT: Sent packet seq_num 998
+105.225 - EVENT: Received ACK expected seq_num 993
+105.225 - EVENT: Sent packet seq_num 999
+105.28 - EVENT: Received ACK expected seq_num 994
+105.28 - EVENT: Sent packet seq_num 1000
+105.28 - EVENT: Sent packet seq_num 1001
+105.337 - EVENT: Received ACK expected seq_num 995
+105.337 - EVENT: Sent packet seq_num 1002
+105.396 - EVENT: Received ACK expected seq_num 996
+105.396 - EVENT: Sent packet seq_num 1003
+106.397 - EVENT: TIMEOUT occurred at base 996
+106.398 - EVENT: Retransmission seq_num 996
+106.451 - EVENT: Received ACK expected seq_num 997
+106.451 - EVENT: Retransmission seq_num 997
+106.451 - EVENT: Retransmission seq_num 998
+106.502 - EVENT: Received ACK expected seq_num 998
+106.502 - EVENT: Retransmission seq_num 999
+106.502 - EVENT: Retransmission seq_num 1000
+106.555 - EVENT: Received ACK expected seq_num 999
+106.555 - EVENT: Retransmission seq_num 1001
+106.555 - EVENT: Retransmission seq_num 1002
+106.611 - EVENT: Received ACK expected seq_num 1000
+106.611 - EVENT: Retransmission seq_num 1003
+106.664 - EVENT: Received ACK expected seq_num 1001
+106.664 - EVENT: Sent packet seq_num 1004
+107.665 - EVENT: TIMEOUT occurred at base 1001
+107.667 - EVENT: Retransmission seq_num 1001
+107.718 - EVENT: Received ACK expected seq_num 1002
+107.719 - EVENT: Retransmission seq_num 1002
+107.719 - EVENT: Retransmission seq_num 1003
+107.77 - EVENT: Received ACK expected seq_num 1003
+107.77 - EVENT: Retransmission seq_num 1004
+107.82 - EVENT: Received ACK expected seq_num 1004
+107.82 - EVENT: Sent packet seq_num 1005
+107.82 - EVENT: Sent packet seq_num 1006
+107.871 - EVENT: Received ACK expected seq_num 1005
+107.871 - EVENT: Sent packet seq_num 1007
+107.922 - EVENT: Received ACK expected seq_num 1006
+107.922 - EVENT: Sent packet seq_num 1008
+107.974 - EVENT: Received ACK expected seq_num 1007
+107.974 - EVENT: Sent packet seq_num 1009
+107.974 - EVENT: Sent packet seq_num 1010
+108.023 - EVENT: Received ACK expected seq_num 1008
+108.023 - EVENT: Sent packet seq_num 1011
+108.074 - EVENT: Received ACK expected seq_num 1009
+108.074 - EVENT: Sent packet seq_num 1012
+108.126 - EVENT: Received ACK expected seq_num 1010
+108.126 - EVENT: Sent packet seq_num 1013
+108.176 - EVENT: Received ACK expected seq_num 1011
+108.176 - EVENT: Sent packet seq_num 1014
+108.176 - EVENT: Sent packet seq_num 1015
+108.227 - EVENT: Received ACK expected seq_num 1012
+108.227 - EVENT: Sent packet seq_num 1016
+108.28 - EVENT: Received ACK expected seq_num 1013
+108.28 - EVENT: Sent packet seq_num 1017
+108.331 - EVENT: Received ACK expected seq_num 1014
+108.331 - EVENT: Sent packet seq_num 1018
+108.382 - EVENT: Received ACK expected seq_num 1015
+108.382 - EVENT: Sent packet seq_num 1019
+108.433 - EVENT: Received ACK expected seq_num 1016
+108.433 - EVENT: Sent packet seq_num 1020
+108.433 - EVENT: Sent packet seq_num 1021
+108.483 - EVENT: Received ACK expected seq_num 1017
+108.484 - EVENT: Sent packet seq_num 1022
+108.535 - EVENT: Received ACK expected seq_num 1018
+108.535 - EVENT: Sent packet seq_num 1023
+109.536 - EVENT: TIMEOUT occurred at base 1018
+109.537 - EVENT: Retransmission seq_num 1018
+109.59 - EVENT: Received ACK expected seq_num 1019
+109.59 - EVENT: Retransmission seq_num 1019
+109.59 - EVENT: Retransmission seq_num 1020
+109.641 - EVENT: Received ACK expected seq_num 1020
+109.641 - EVENT: Retransmission seq_num 1021
+109.641 - EVENT: Retransmission seq_num 1022
+109.692 - EVENT: Received ACK expected seq_num 1021
+109.692 - EVENT: Retransmission seq_num 1023
+109.742 - EVENT: Received ACK expected seq_num 1022
+109.742 - EVENT: Sent packet seq_num 1024
+109.795 - EVENT: Received ACK expected seq_num 1023
+109.795 - EVENT: Sent packet seq_num 1025
+109.795 - EVENT: Sent packet seq_num 1026
+109.844 - EVENT: Received ACK expected seq_num 1024
+109.844 - EVENT: Sent packet seq_num 1027
+109.896 - EVENT: Received ACK expected seq_num 1025
+109.896 - EVENT: Sent packet seq_num 1028
+109.947 - EVENT: Received ACK expected seq_num 1026
+109.947 - EVENT: Sent packet seq_num 1029
+110 - EVENT: Received ACK expected seq_num 1027
+110 - EVENT: Sent packet seq_num 1030
+110 - EVENT: Sent packet seq_num 1031
+110.051 - EVENT: Received ACK expected seq_num 1028
+110.051 - EVENT: Sent packet seq_num 1032
+110.104 - EVENT: Received ACK expected seq_num 1029
+110.104 - EVENT: Sent packet seq_num 1033
+110.171 - EVENT: Received ACK expected seq_num 1030
+110.171 - EVENT: Sent packet seq_num 1034
+110.224 - EVENT: Received ACK expected seq_num 1031
+110.224 - EVENT: Sent packet seq_num 1035
+110.275 - EVENT: Received ACK expected seq_num 1032
+110.275 - EVENT: Sent packet seq_num 1036
+110.275 - EVENT: Sent packet seq_num 1037
+110.327 - EVENT: Received ACK expected seq_num 1033
+110.327 - EVENT: Sent packet seq_num 1038
+110.379 - EVENT: Received ACK expected seq_num 1034
+110.379 - EVENT: Sent packet seq_num 1039
+110.435 - EVENT: Received ACK expected seq_num 1035
+110.435 - EVENT: Sent packet seq_num 1040
+110.487 - EVENT: Received ACK expected seq_num 1036
+110.487 - EVENT: Sent packet seq_num 1041
+110.549 - EVENT: Received ACK expected seq_num 1037
+110.549 - EVENT: Sent packet seq_num 1042
+110.603 - EVENT: Received ACK expected seq_num 1038
+110.603 - EVENT: Sent packet seq_num 1043
+110.603 - EVENT: Sent packet seq_num 1044
+110.656 - EVENT: Received ACK expected seq_num 1039
+110.657 - EVENT: Sent packet seq_num 1045
+110.709 - EVENT: Received ACK expected seq_num 1040
+110.709 - EVENT: Sent packet seq_num 1046
+110.763 - EVENT: Received ACK expected seq_num 1041
+110.763 - EVENT: Sent packet seq_num 1047
+110.813 - EVENT: Received ACK expected seq_num 1042
+110.813 - EVENT: Sent packet seq_num 1048
+110.865 - EVENT: Received ACK expected seq_num 1043
+110.865 - EVENT: Sent packet seq_num 1049
+110.919 - EVENT: Received ACK expected seq_num 1044
+110.919 - EVENT: Sent packet seq_num 1050
+110.974 - EVENT: Received ACK expected seq_num 1045
+110.974 - EVENT: Sent packet seq_num 1051
+110.974 - EVENT: Sent packet seq_num 1052
+111.031 - EVENT: Received ACK expected seq_num 1046
+111.031 - EVENT: Sent packet seq_num 1053
+111.083 - EVENT: Received ACK expected seq_num 1047
+111.084 - EVENT: Sent packet seq_num 1054
+111.137 - EVENT: Received ACK expected seq_num 1048
+111.137 - EVENT: Sent packet seq_num 1055
+111.191 - EVENT: Received ACK expected seq_num 1049
+111.191 - EVENT: Sent packet seq_num 1056
+111.244 - EVENT: Received ACK expected seq_num 1050
+111.245 - EVENT: Sent packet seq_num 1057
+111.296 - EVENT: Received ACK expected seq_num 1051
+111.296 - EVENT: Sent packet seq_num 1058
+111.352 - EVENT: Received ACK expected seq_num 1052
+111.352 - EVENT: Sent packet seq_num 1059
+111.421 - EVENT: Received ACK expected seq_num 1053
+111.421 - EVENT: Sent packet seq_num 1060
+111.421 - EVENT: Sent packet seq_num 1061
+111.48 - EVENT: Received ACK expected seq_num 1054
+111.48 - EVENT: Sent packet seq_num 1062
+111.565 - EVENT: Received ACK expected seq_num 1055
+111.565 - EVENT: Sent packet seq_num 1063
+112.567 - EVENT: TIMEOUT occurred at base 1055
+112.568 - EVENT: Retransmission seq_num 1055
+112.621 - EVENT: Received ACK expected seq_num 1056
+112.621 - EVENT: Retransmission seq_num 1056
+112.621 - EVENT: Retransmission seq_num 1057
+112.673 - EVENT: Received ACK expected seq_num 1057
+112.673 - EVENT: Retransmission seq_num 1058
+112.673 - EVENT: Retransmission seq_num 1059
+112.724 - EVENT: Received ACK expected seq_num 1058
+112.724 - EVENT: Retransmission seq_num 1060
+112.724 - EVENT: Retransmission seq_num 1061
+112.775 - EVENT: Received ACK expected seq_num 1059
+112.775 - EVENT: Retransmission seq_num 1062
+112.825 - EVENT: Received ACK expected seq_num 1060
+112.825 - EVENT: Retransmission seq_num 1063
+112.877 - EVENT: Received ACK expected seq_num 1061
+112.877 - EVENT: Sent packet seq_num 1064
+112.927 - EVENT: Received ACK expected seq_num 1062
+112.927 - EVENT: Sent packet seq_num 1065
+112.927 - EVENT: Sent packet seq_num 1066
+112.978 - EVENT: Received ACK expected seq_num 1063
+112.978 - EVENT: Sent packet seq_num 1067
+113.029 - EVENT: Received ACK expected seq_num 1064
+113.029 - EVENT: Sent packet seq_num 1068
+113.08 - EVENT: Received ACK expected seq_num 1065
+113.08 - EVENT: Sent packet seq_num 1069
+113.131 - EVENT: Received ACK expected seq_num 1066
+113.131 - EVENT: Sent packet seq_num 1070
+113.182 - EVENT: Received ACK expected seq_num 1067
+113.182 - EVENT: Sent packet seq_num 1071
+113.182 - EVENT: Sent packet seq_num 1072
+113.233 - EVENT: Received ACK expected seq_num 1068
+113.233 - EVENT: Sent packet seq_num 1073
+113.287 - EVENT: Received ACK expected seq_num 1069
+113.287 - EVENT: Sent packet seq_num 1074
+114.287 - EVENT: TIMEOUT occurred at base 1069
+114.29 - EVENT: Retransmission seq_num 1069
+115.29 - EVENT: TIMEOUT occurred at base 1069
+115.293 - EVENT: Retransmission seq_num 1069
+115.345 - EVENT: Received ACK expected seq_num 1070
+115.345 - EVENT: Retransmission seq_num 1070
+115.345 - EVENT: Retransmission seq_num 1071
+115.396 - EVENT: Received ACK expected seq_num 1071
+115.396 - EVENT: Retransmission seq_num 1072
+115.448 - EVENT: Received ACK expected seq_num 1072
+115.448 - EVENT: Retransmission seq_num 1073
+115.448 - EVENT: Retransmission seq_num 1074
+115.501 - EVENT: Received ACK expected seq_num 1073
+115.501 - EVENT: Sent packet seq_num 1075
+115.553 - EVENT: Received ACK expected seq_num 1074
+115.553 - EVENT: Sent packet seq_num 1076
+115.607 - EVENT: Received ACK expected seq_num 1075
+115.607 - EVENT: Sent packet seq_num 1077
+115.607 - EVENT: Sent packet seq_num 1078
+116.607 - EVENT: TIMEOUT occurred at base 1075
+116.611 - EVENT: Retransmission seq_num 1075
+116.663 - EVENT: Received ACK expected seq_num 1076
+116.663 - EVENT: Retransmission seq_num 1076
+116.663 - EVENT: Retransmission seq_num 1077
+116.715 - EVENT: Received ACK expected seq_num 1077
+116.715 - EVENT: Retransmission seq_num 1078
+116.766 - EVENT: Received ACK expected seq_num 1078
+116.766 - EVENT: Sent packet seq_num 1079
+116.766 - EVENT: Sent packet seq_num 1080
+116.826 - EVENT: Received ACK expected seq_num 1079
+116.826 - EVENT: Sent packet seq_num 1081
+116.878 - EVENT: Received ACK expected seq_num 1080
+116.878 - EVENT: Sent packet seq_num 1082
+116.929 - EVENT: Received ACK expected seq_num 1081
+116.929 - EVENT: Sent packet seq_num 1083
+116.929 - EVENT: Sent packet seq_num 1084
+116.982 - EVENT: Received ACK expected seq_num 1082
+116.982 - EVENT: Sent packet seq_num 1085
+117.983 - EVENT: TIMEOUT occurred at base 1082
+117.984 - EVENT: Retransmission seq_num 1082
+118.036 - EVENT: Received ACK expected seq_num 1083
+118.036 - EVENT: Retransmission seq_num 1083
+118.036 - EVENT: Retransmission seq_num 1084
+118.089 - EVENT: Received ACK expected seq_num 1084
+118.089 - EVENT: Retransmission seq_num 1085
+118.138 - EVENT: Received ACK expected seq_num 1085
+118.138 - EVENT: Sent packet seq_num 1086
+118.138 - EVENT: Sent packet seq_num 1087
+118.248 - EVENT: Received ACK expected seq_num 1086
+118.248 - EVENT: Sent packet seq_num 1088
+118.296 - EVENT: Received ACK expected seq_num 1087
+118.296 - EVENT: Sent packet seq_num 1089
+118.346 - EVENT: Received ACK expected seq_num 1088
+118.346 - EVENT: Sent packet seq_num 1090
+118.346 - EVENT: Sent packet seq_num 1091
+118.4 - EVENT: Received ACK expected seq_num 1089
+118.4 - EVENT: Sent packet seq_num 1092
+118.45 - EVENT: Received ACK expected seq_num 1090
+118.45 - EVENT: Sent packet seq_num 1093
+119.451 - EVENT: TIMEOUT occurred at base 1090
+119.453 - EVENT: Retransmission seq_num 1090
+119.505 - EVENT: Received ACK expected seq_num 1091
+119.505 - EVENT: Retransmission seq_num 1091
+119.505 - EVENT: Retransmission seq_num 1092
+119.557 - EVENT: Received ACK expected seq_num 1092
+119.557 - EVENT: Retransmission seq_num 1093
+119.61 - EVENT: Received ACK expected seq_num 1093
+119.61 - EVENT: Sent packet seq_num 1094
+119.61 - EVENT: Sent packet seq_num 1095
+119.661 - EVENT: Received ACK expected seq_num 1094
+119.661 - EVENT: Sent packet seq_num 1096
+119.713 - EVENT: Received ACK expected seq_num 1095
+119.713 - EVENT: Sent packet seq_num 1097
+119.773 - EVENT: Received ACK expected seq_num 1096
+119.773 - EVENT: Sent packet seq_num 1098
+119.773 - EVENT: Sent packet seq_num 1099
+119.825 - EVENT: Received ACK expected seq_num 1097
+119.825 - EVENT: Sent packet seq_num 1100
+119.878 - EVENT: Received ACK expected seq_num 1098
+119.878 - EVENT: Sent packet seq_num 1101
+120.88 - EVENT: TIMEOUT occurred at base 1098
+120.882 - EVENT: Retransmission seq_num 1098
+120.935 - EVENT: Received ACK expected seq_num 1099
+120.935 - EVENT: Retransmission seq_num 1099
+120.935 - EVENT: Retransmission seq_num 1100
+120.986 - EVENT: Received ACK expected seq_num 1100
+120.986 - EVENT: Retransmission seq_num 1101
+121.04 - EVENT: Received ACK expected seq_num 1101
+121.04 - EVENT: Sent packet seq_num 1102
+121.04 - EVENT: Sent packet seq_num 1103
+121.092 - EVENT: Received ACK expected seq_num 1102
+121.092 - EVENT: Sent packet seq_num 1104
+121.142 - EVENT: Received ACK expected seq_num 1103
+121.142 - EVENT: Sent packet seq_num 1105
+121.192 - EVENT: Received ACK expected seq_num 1104
+121.192 - EVENT: Sent packet seq_num 1106
+121.192 - EVENT: Sent packet seq_num 1107
+121.243 - EVENT: Received ACK expected seq_num 1105
+121.243 - EVENT: Sent packet seq_num 1108
+121.294 - EVENT: Received ACK expected seq_num 1106
+121.294 - EVENT: Sent packet seq_num 1109
+121.346 - EVENT: Received ACK expected seq_num 1107
+121.346 - EVENT: Sent packet seq_num 1110
+122.347 - EVENT: TIMEOUT occurred at base 1107
+122.348 - EVENT: Retransmission seq_num 1107
+123.35 - EVENT: TIMEOUT occurred at base 1107
+123.352 - EVENT: Retransmission seq_num 1107
+123.406 - EVENT: Received ACK expected seq_num 1108
+123.406 - EVENT: Retransmission seq_num 1108
+123.406 - EVENT: Retransmission seq_num 1109
+123.46 - EVENT: Received ACK expected seq_num 1109
+123.46 - EVENT: Retransmission seq_num 1110
+123.51 - EVENT: Received ACK expected seq_num 1110
+123.51 - EVENT: Sent packet seq_num 1111
+123.51 - EVENT: Sent packet seq_num 1112
+123.562 - EVENT: Received ACK expected seq_num 1111
+123.562 - EVENT: Sent packet seq_num 1113
+123.612 - EVENT: Received ACK expected seq_num 1112
+123.612 - EVENT: Sent packet seq_num 1114
+123.662 - EVENT: Received ACK expected seq_num 1113
+123.662 - EVENT: Sent packet seq_num 1115
+123.662 - EVENT: Sent packet seq_num 1116
+123.713 - EVENT: Received ACK expected seq_num 1114
+123.714 - EVENT: Sent packet seq_num 1117
+123.765 - EVENT: Received ACK expected seq_num 1115
+123.765 - EVENT: Sent packet seq_num 1118
+123.819 - EVENT: Received ACK expected seq_num 1116
+123.819 - EVENT: Sent packet seq_num 1119
+123.875 - EVENT: Received ACK expected seq_num 1117
+123.875 - EVENT: Sent packet seq_num 1120
+123.875 - EVENT: Sent packet seq_num 1121
+123.929 - EVENT: Received ACK expected seq_num 1118
+123.929 - EVENT: Sent packet seq_num 1122
+123.995 - EVENT: Received ACK expected seq_num 1119
+123.995 - EVENT: Sent packet seq_num 1123
+124.039 - EVENT: Received ACK expected seq_num 1120
+124.039 - EVENT: Sent packet seq_num 1124
+125.069 - EVENT: TIMEOUT occurred at base 1120
+125.071 - EVENT: Retransmission seq_num 1120
+125.127 - EVENT: Received ACK expected seq_num 1121
+125.127 - EVENT: Retransmission seq_num 1121
+125.127 - EVENT: Retransmission seq_num 1122
+125.182 - EVENT: Received ACK expected seq_num 1122
+125.182 - EVENT: Retransmission seq_num 1123
+125.234 - EVENT: Received ACK expected seq_num 1123
+125.234 - EVENT: Retransmission seq_num 1124
+125.234 - EVENT: Sent packet seq_num 1125
+125.289 - EVENT: Received ACK expected seq_num 1124
+125.289 - EVENT: Sent packet seq_num 1126
+125.341 - EVENT: Received ACK expected seq_num 1125
+125.341 - EVENT: Sent packet seq_num 1127
+125.403 - EVENT: Received ACK expected seq_num 1126
+125.403 - EVENT: Sent packet seq_num 1128
+125.403 - EVENT: Sent packet seq_num 1129
+125.453 - EVENT: Received ACK expected seq_num 1127
+125.454 - EVENT: Sent packet seq_num 1130
+125.504 - EVENT: Received ACK expected seq_num 1128
+125.505 - EVENT: Sent packet seq_num 1131
+125.555 - EVENT: Received ACK expected seq_num 1129
+125.555 - EVENT: Sent packet seq_num 1132
+125.607 - EVENT: Received ACK expected seq_num 1130
+125.607 - EVENT: Sent packet seq_num 1133
+125.607 - EVENT: Sent packet seq_num 1134
+125.658 - EVENT: Received ACK expected seq_num 1131
+125.658 - EVENT: Sent packet seq_num 1135
+125.715 - EVENT: Received ACK expected seq_num 1132
+125.715 - EVENT: Sent packet seq_num 1136
+126.716 - EVENT: TIMEOUT occurred at base 1132
+126.718 - EVENT: Retransmission seq_num 1132
+126.77 - EVENT: Received ACK expected seq_num 1133
+126.77 - EVENT: Retransmission seq_num 1133
+126.77 - EVENT: Retransmission seq_num 1134
+126.823 - EVENT: Received ACK expected seq_num 1134
+126.823 - EVENT: Retransmission seq_num 1135
+126.873 - EVENT: Received ACK expected seq_num 1135
+126.873 - EVENT: Retransmission seq_num 1136
+126.873 - EVENT: Sent packet seq_num 1137
+126.925 - EVENT: Received ACK expected seq_num 1136
+126.925 - EVENT: Sent packet seq_num 1138
+126.977 - EVENT: Received ACK expected seq_num 1137
+126.977 - EVENT: Sent packet seq_num 1139
+127.026 - EVENT: Received ACK expected seq_num 1138
+127.027 - EVENT: Sent packet seq_num 1140
+127.027 - EVENT: Sent packet seq_num 1141
+127.078 - EVENT: Received ACK expected seq_num 1139
+127.078 - EVENT: Sent packet seq_num 1142
+127.127 - EVENT: Received ACK expected seq_num 1140
+127.127 - EVENT: Sent packet seq_num 1143
+127.178 - EVENT: Received ACK expected seq_num 1141
+127.178 - EVENT: Sent packet seq_num 1144
+127.23 - EVENT: Received ACK expected seq_num 1142
+127.23 - EVENT: Sent packet seq_num 1145
+127.23 - EVENT: Sent packet seq_num 1146
+127.282 - EVENT: Received ACK expected seq_num 1143
+127.282 - EVENT: Sent packet seq_num 1147
+127.333 - EVENT: Received ACK expected seq_num 1144
+127.333 - EVENT: Sent packet seq_num 1148
+127.384 - EVENT: Received ACK expected seq_num 1145
+127.384 - EVENT: Sent packet seq_num 1149
+127.435 - EVENT: Received ACK expected seq_num 1146
+127.435 - EVENT: Sent packet seq_num 1150
+127.487 - EVENT: Received ACK expected seq_num 1147
+127.487 - EVENT: Sent packet seq_num 1151
+127.487 - EVENT: Sent packet seq_num 1152
+127.537 - EVENT: Received ACK expected seq_num 1148
+127.538 - EVENT: Sent packet seq_num 1153
+127.59 - EVENT: Received ACK expected seq_num 1149
+127.59 - EVENT: Sent packet seq_num 1154
+127.644 - EVENT: Received ACK expected seq_num 1150
+127.644 - EVENT: Sent packet seq_num 1155
+127.7 - EVENT: Received ACK expected seq_num 1151
+127.7 - EVENT: Sent packet seq_num 1156
+127.753 - EVENT: Received ACK expected seq_num 1152
+127.753 - EVENT: Sent packet seq_num 1157
+127.807 - EVENT: Received ACK expected seq_num 1153
+127.807 - EVENT: Sent packet seq_num 1158
+127.807 - EVENT: Sent packet seq_num 1159
+127.859 - EVENT: Received ACK expected seq_num 1154
+127.859 - EVENT: Sent packet seq_num 1160
+127.913 - EVENT: Received ACK expected seq_num 1155
+127.913 - EVENT: Sent packet seq_num 1161
+127.963 - EVENT: Received ACK expected seq_num 1156
+127.963 - EVENT: Sent packet seq_num 1162
+128.017 - EVENT: Received ACK expected seq_num 1157
+128.017 - EVENT: Sent packet seq_num 1163
+128.07 - EVENT: Received ACK expected seq_num 1158
+128.071 - EVENT: Sent packet seq_num 1164
+128.123 - EVENT: Received ACK expected seq_num 1159
+128.123 - EVENT: Sent packet seq_num 1165
+128.178 - EVENT: Received ACK expected seq_num 1160
+128.178 - EVENT: Sent packet seq_num 1166
+128.178 - EVENT: Sent packet seq_num 1167
+128.232 - EVENT: Received ACK expected seq_num 1161
+128.232 - EVENT: Sent packet seq_num 1168
+128.283 - EVENT: Received ACK expected seq_num 1162
+128.336 - EVENT: Received ACK expected seq_num 1163
+128.398 - EVENT: Received ACK expected seq_num 1164
+128.457 - EVENT: Received ACK expected seq_num 1165
+128.54 - EVENT: Received ACK expected seq_num 1166
+128.593 - EVENT: Received ACK expected seq_num 1167
+128.645 - EVENT: Received ACK expected seq_num 1168
+128.698 - EVENT: Received ACK expected seq_num 1169

@@ -1,0 +1,7 @@
+Transfer Complete
+Total file size: 1196766 bytes
+Total time: 290.298 seconds
+Total packets sent: 3991
+Total timeout events: 283
+retransmitted packets: 2822
+Throughput: 4.02591 KB/s
