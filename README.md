@@ -68,6 +68,6 @@ This project involves building "Mini-TCP", an educational, application-layer imp
 *   **Tech Stack:** C++, UDP Sockets, Makefile, Python (for plotting `cwnd` and throughput graphs).
 
 ## 👥 Contributors
-* Minoo Sanjari
 * Faezeh Misaghi 
+* Minoo Sanjari
 
